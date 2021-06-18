@@ -1,0 +1,791 @@
+2021-06-18 18:34:51 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 18:34:51 INFO  Page:26 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:34:56 INFO  Page:29 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:44:49 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 18:44:49 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:44:53 INFO  Page:30 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:45:33 INFO  Page:33 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 18:50:00 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 18:50:01 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:50:04 INFO  Page:30 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 18:50:06 INFO  Page:35 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 18:53:14 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 18:53:14 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:53:18 INFO  Page:30 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 18:53:22 INFO  Page:35 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 18:53:22 INFO  Page:38 - Sayfanın sonuna inildi
+2021-06-18 18:53:24 INFO  Page:41 - The Jazz Singer Seçilir
+2021-06-18 18:56:05 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 18:56:05 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 18:56:09 INFO  Page:30 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 18:56:12 INFO  Page:35 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 18:56:12 INFO  Page:38 - Sayfanın sonuna inildi
+2021-06-18 18:56:15 INFO  Page:41 - The Jazz Singer Seçilir
+2021-06-18 18:56:17 INFO  Page:43 - Full credit sayfası açıldı
+2021-06-18 18:56:17 INFO  Page:48 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 18:56:19 INFO  Page:54 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 18:56:19 INFO  Page:56 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:00:42 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:00:42 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:00:46 INFO  Page:30 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:00:49 INFO  Page:35 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:00:49 INFO  Page:38 - Sayfanın sonuna inildi
+2021-06-18 19:00:52 INFO  Page:41 - The Jazz Singer Seçilir
+2021-06-18 19:00:55 INFO  Page:43 - Full credit sayfası açıldı
+2021-06-18 19:00:55 INFO  Page:48 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:00:56 INFO  Page:54 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:00:57 INFO  Page:56 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:00:58 INFO  Page:58 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:01:01 INFO  Page:62 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:01:03 INFO  Page:64 - Full Credit sayfası açılır
+2021-06-18 19:09:04 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:09:04 INFO  Page:27 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:09:08 INFO  Page:30 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:09:11 INFO  Page:35 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:09:11 INFO  Page:38 - Sayfanın sonuna inildi
+2021-06-18 19:09:15 INFO  Page:41 - The Jazz Singer Seçilir
+2021-06-18 19:24:58 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:24:58 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:25:02 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:25:05 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:25:05 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:25:09 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:25:11 INFO  Page:53 - Full credit sayfası açıldı
+2021-06-18 19:25:12 INFO  Page:58 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:25:14 INFO  Page:64 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:25:14 INFO  Page:66 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:25:16 INFO  Page:68 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:25:18 INFO  Page:72 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:25:20 INFO  Page:74 - Full Credit sayfası açılır
+2021-06-18 19:27:08 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:27:09 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:27:13 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:27:16 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:27:16 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:27:20 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:27:48 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:27:48 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:27:52 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:27:54 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:27:54 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:27:58 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:28:00 INFO  Page:53 - Full credit sayfası açıldı
+2021-06-18 19:28:00 INFO  Page:58 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:28:02 INFO  Page:64 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:28:02 INFO  Page:66 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:28:04 INFO  Page:68 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:28:07 INFO  Page:72 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:28:09 INFO  Page:74 - Full Credit sayfası açılır
+2021-06-18 19:28:57 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:28:57 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:29:01 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:29:03 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:29:03 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:29:07 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:29:58 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:29:58 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:30:02 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:30:04 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:30:04 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:30:08 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:42:12 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:42:12 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:42:16 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:42:18 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:42:18 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:42:23 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:42:25 INFO  Page:53 - Full credit sayfası açıldı
+2021-06-18 19:42:25 INFO  Page:58 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:42:27 INFO  Page:64 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:42:27 INFO  Page:66 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:42:29 INFO  Page:68 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:42:32 INFO  Page:72 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:42:34 INFO  Page:74 - Full Credit sayfası açılır
+2021-06-18 19:43:30 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:43:30 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:43:34 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:43:36 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:43:36 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:43:40 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:43:42 INFO  Page:53 - Full credit sayfası açıldı
+2021-06-18 19:43:42 INFO  Page:58 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:43:44 INFO  Page:64 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:43:44 INFO  Page:66 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:43:46 INFO  Page:68 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:43:49 INFO  Page:72 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:43:51 INFO  Page:74 - Full Credit sayfası açılır
+2021-06-18 19:47:09 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:47:09 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:47:13 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:47:16 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:47:16 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:47:21 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:48:00 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:48:01 INFO  Page:37 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:48:05 INFO  Page:40 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:48:07 INFO  Page:45 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:48:07 INFO  Page:48 - Sayfanın sonuna inildi
+2021-06-18 19:48:10 INFO  Page:51 - The Jazz Singer Seçilir
+2021-06-18 19:57:02 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 19:57:03 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 19:57:06 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 19:57:08 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 19:57:08 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 19:57:11 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 19:57:14 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 19:57:14 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 19:57:16 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 19:57:16 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 19:57:18 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 19:57:20 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 19:57:22 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:02:50 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:02:50 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:02:54 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:02:56 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:02:56 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:02:59 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:03:01 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 20:03:01 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 20:03:03 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 20:03:03 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 20:03:05 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 20:03:07 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 20:03:09 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:05:48 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:05:48 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:05:52 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:05:53 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:05:53 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:05:57 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:06:11 INFO  BaseTest:41 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:06:11 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:06:15 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:06:17 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:06:17 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:06:21 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:08:52 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:08:52 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:08:57 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:09:00 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:09:00 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:09:03 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:09:05 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 20:09:05 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 20:09:07 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 20:09:07 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 20:09:09 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 20:09:12 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 20:09:14 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:09:14 INFO  Page:85 - Cast eşit değil
+2021-06-18 20:09:16 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-18 20:09:19 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-18 20:09:19 INFO  Page:109 - url :https://www.imdb.com/?ref_=nv_home
+2021-06-18 20:09:20 INFO  Page:123 - https://www.imdb.com/?ref_=nv_homeLinki çalışıyor
+2021-06-18 20:09:20 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:20 INFO  Page:109 - url :https://www.imdb.com/calendar/?ref_=nv_mv_cal
+2021-06-18 20:09:20 INFO  Page:123 - https://www.imdb.com/calendar/?ref_=nv_mv_calLinki çalışıyor
+2021-06-18 20:09:20 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:20 INFO  Page:109 - url :https://www.imdb.com/list/ls016522954/?ref_=nv_tvv_dvd
+2021-06-18 20:09:22 INFO  Page:123 - https://www.imdb.com/list/ls016522954/?ref_=nv_tvv_dvdLinki çalışıyor
+2021-06-18 20:09:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:22 INFO  Page:109 - url :https://www.imdb.com/chart/top/?ref_=nv_mv_250
+2021-06-18 20:09:22 INFO  Page:123 - https://www.imdb.com/chart/top/?ref_=nv_mv_250Linki çalışıyor
+2021-06-18 20:09:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:23 INFO  Page:109 - url :https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
+2021-06-18 20:09:23 INFO  Page:123 - https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpmLinki çalışıyor
+2021-06-18 20:09:23 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:23 INFO  Page:109 - url :https://www.imdb.com/feature/genre/?ref_=nv_ch_gr
+2021-06-18 20:09:23 INFO  Page:123 - https://www.imdb.com/feature/genre/?ref_=nv_ch_grLinki çalışıyor
+2021-06-18 20:09:23 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:23 INFO  Page:109 - url :https://www.imdb.com/chart/boxoffice/?ref_=nv_ch_cht
+2021-06-18 20:09:23 INFO  Page:123 - https://www.imdb.com/chart/boxoffice/?ref_=nv_ch_chtLinki çalışıyor
+2021-06-18 20:09:23 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:23 INFO  Page:109 - url :https://m.imdb.com/showtimes/movie/?ref_=nv_mv_sh
+2021-06-18 20:09:25 INFO  Page:123 - https://m.imdb.com/showtimes/movie/?ref_=nv_mv_shLinki çalışıyor
+2021-06-18 20:09:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:25 INFO  Page:109 - url :https://www.imdb.com/showtimes/?ref_=nv_mv_sh
+2021-06-18 20:09:25 INFO  Page:123 - https://www.imdb.com/showtimes/?ref_=nv_mv_shLinki çalışıyor
+2021-06-18 20:09:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:25 INFO  Page:109 - url :https://www.imdb.com/movies-in-theaters/?ref_=nv_mv_inth
+2021-06-18 20:09:25 INFO  Page:123 - https://www.imdb.com/movies-in-theaters/?ref_=nv_mv_inthLinki çalışıyor
+2021-06-18 20:09:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:25 INFO  Page:109 - url :https://m.imdb.com/coming-soon/?ref_=nv_mv_cs
+2021-06-18 20:09:26 INFO  Page:123 - https://m.imdb.com/coming-soon/?ref_=nv_mv_csLinki çalışıyor
+2021-06-18 20:09:26 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:26 INFO  Page:109 - url :https://www.imdb.com/coming-soon/?ref_=nv_mv_cs
+2021-06-18 20:09:27 INFO  Page:123 - https://www.imdb.com/coming-soon/?ref_=nv_mv_csLinki çalışıyor
+2021-06-18 20:09:27 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:27 INFO  Page:109 - url :https://www.imdb.com/news/movie/?ref_=nv_nw_mv
+2021-06-18 20:09:27 INFO  Page:123 - https://www.imdb.com/news/movie/?ref_=nv_nw_mvLinki çalışıyor
+2021-06-18 20:09:27 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:27 INFO  Page:109 - url :https://www.imdb.com/india/toprated/?ref_=nv_mv_in
+2021-06-18 20:09:28 INFO  Page:123 - https://www.imdb.com/india/toprated/?ref_=nv_mv_inLinki çalışıyor
+2021-06-18 20:09:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:28 INFO  Page:109 - url :https://www.imdb.com/whats-on-tv/?ref_=nv_tv_ontv
+2021-06-18 20:09:28 INFO  Page:123 - https://www.imdb.com/whats-on-tv/?ref_=nv_tv_ontvLinki çalışıyor
+2021-06-18 20:09:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:28 INFO  Page:109 - url :https://m.imdb.com/whats-on-tv/?ref_=nv_tv_ontv
+2021-06-18 20:09:29 INFO  Page:123 - https://m.imdb.com/whats-on-tv/?ref_=nv_tv_ontvLinki çalışıyor
+2021-06-18 20:09:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:29 INFO  Page:109 - url :https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250
+2021-06-18 20:09:29 INFO  Page:123 - https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250Linki çalışıyor
+2021-06-18 20:09:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:29 INFO  Page:109 - url :https://www.imdb.com/chart/tvmeter/?ref_=nv_tvv_mptv
+2021-06-18 20:09:29 INFO  Page:123 - https://www.imdb.com/chart/tvmeter/?ref_=nv_tvv_mptvLinki çalışıyor
+2021-06-18 20:09:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:29 INFO  Page:109 - url :https://www.imdb.com/feature/genre/?ref_=nv_tv_gr
+2021-06-18 20:09:29 INFO  Page:123 - https://www.imdb.com/feature/genre/?ref_=nv_tv_grLinki çalışıyor
+2021-06-18 20:09:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:29 INFO  Page:109 - url :https://www.imdb.com/news/tv/?ref_=nv_nw_tv
+2021-06-18 20:09:30 INFO  Page:123 - https://www.imdb.com/news/tv/?ref_=nv_nw_tvLinki çalışıyor
+2021-06-18 20:09:30 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:30 INFO  Page:109 - url :https://www.imdb.com/india/tv?ref_=nv_tv_in
+2021-06-18 20:09:30 INFO  Page:123 - https://www.imdb.com/india/tv?ref_=nv_tv_inLinki çalışıyor
+2021-06-18 20:09:30 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:30 INFO  Page:109 - url :https://www.imdb.com/what-to-watch/?ref_=nv_watch
+2021-06-18 20:09:31 INFO  Page:123 - https://www.imdb.com/what-to-watch/?ref_=nv_watchLinki çalışıyor
+2021-06-18 20:09:31 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:31 INFO  Page:109 - url :https://www.imdb.com/trailers/?ref_=nv_mv_tr
+2021-06-18 20:09:32 INFO  Page:123 - https://www.imdb.com/trailers/?ref_=nv_mv_trLinki çalışıyor
+2021-06-18 20:09:32 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:32 INFO  Page:109 - url :https://www.imdb.com/originals/?ref_=nv_sf_ori
+2021-06-18 20:09:32 INFO  Page:123 - https://www.imdb.com/originals/?ref_=nv_sf_oriLinki çalışıyor
+2021-06-18 20:09:32 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:32 INFO  Page:109 - url :https://www.imdb.com/imdbpicks/?ref_=nv_pi
+2021-06-18 20:09:33 INFO  Page:123 - https://www.imdb.com/imdbpicks/?ref_=nv_piLinki çalışıyor
+2021-06-18 20:09:33 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:33 INFO  Page:109 - url :https://www.imdb.com/podcasts/?ref_=nv_pod
+2021-06-18 20:09:33 INFO  Page:123 - https://www.imdb.com/podcasts/?ref_=nv_podLinki çalışıyor
+2021-06-18 20:09:33 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:33 INFO  Page:109 - url :https://www.imdb.com/oscars/?ref_=nv_ev_acd
+2021-06-18 20:09:33 INFO  Page:123 - https://www.imdb.com/oscars/?ref_=nv_ev_acdLinki çalışıyor
+2021-06-18 20:09:33 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:33 INFO  Page:109 - url :https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_osc
+2021-06-18 20:09:34 INFO  Page:123 - https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_oscLinki çalışıyor
+2021-06-18 20:09:34 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:34 INFO  Page:109 - url :https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%2Cdesc&ref_=nv_ch_osc
+2021-06-18 20:09:35 INFO  Page:123 - https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%2Cdesc&ref_=nv_ch_oscLinki çalışıyor
+2021-06-18 20:09:35 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:35 INFO  Page:109 - url :https://www.imdb.com/golden-globes/?ref_=nv_ev_gg
+2021-06-18 20:09:35 INFO  Page:123 - https://www.imdb.com/golden-globes/?ref_=nv_ev_ggLinki çalışıyor
+2021-06-18 20:09:35 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:35 INFO  Page:109 - url :https://www.imdb.com/emmys/?ref_=nv_ev_rte
+2021-06-18 20:09:36 INFO  Page:123 - https://www.imdb.com/emmys/?ref_=nv_ev_rteLinki çalışıyor
+2021-06-18 20:09:36 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:36 INFO  Page:109 - url :https://www.imdb.com/imdbpicks/pride/?ref_=nv_ev_pri
+2021-06-18 20:09:36 INFO  Page:123 - https://www.imdb.com/imdbpicks/pride/?ref_=nv_ev_priLinki çalışıyor
+2021-06-18 20:09:36 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:36 INFO  Page:109 - url :https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma
+2021-06-18 20:09:37 INFO  Page:123 - https://www.imdb.com/starmeterawards/?ref_=nv_ev_smaLinki çalışıyor
+2021-06-18 20:09:37 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:37 INFO  Page:109 - url :https://www.imdb.com/comic-con/?ref_=nv_ev_comic
+2021-06-18 20:09:37 INFO  Page:123 - https://www.imdb.com/comic-con/?ref_=nv_ev_comicLinki çalışıyor
+2021-06-18 20:09:37 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:38 INFO  Page:109 - url :https://www.imdb.com/nycc/?ref_=nv_ev_nycc
+2021-06-18 20:09:38 INFO  Page:123 - https://www.imdb.com/nycc/?ref_=nv_ev_nyccLinki çalışıyor
+2021-06-18 20:09:38 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:38 INFO  Page:109 - url :https://www.imdb.com/sundance/?ref_=nv_ev_sun
+2021-06-18 20:09:38 INFO  Page:123 - https://www.imdb.com/sundance/?ref_=nv_ev_sunLinki çalışıyor
+2021-06-18 20:09:38 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:38 INFO  Page:109 - url :https://www.imdb.com/toronto/?ref_=nv_ev_tor
+2021-06-18 20:09:39 INFO  Page:123 - https://www.imdb.com/toronto/?ref_=nv_ev_torLinki çalışıyor
+2021-06-18 20:09:39 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:39 INFO  Page:109 - url :https://www.imdb.com/awards-central/?ref_=nv_ev_awrd
+2021-06-18 20:09:39 INFO  Page:123 - https://www.imdb.com/awards-central/?ref_=nv_ev_awrdLinki çalışıyor
+2021-06-18 20:09:39 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:39 INFO  Page:109 - url :https://www.imdb.com/festival-central/?ref_=nv_ev_fc
+2021-06-18 20:09:39 INFO  Page:123 - https://www.imdb.com/festival-central/?ref_=nv_ev_fcLinki çalışıyor
+2021-06-18 20:09:39 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:39 INFO  Page:109 - url :https://www.imdb.com/event/all/?ref_=nv_ev_all
+2021-06-18 20:09:40 INFO  Page:123 - https://www.imdb.com/event/all/?ref_=nv_ev_allLinki çalışıyor
+2021-06-18 20:09:40 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:40 INFO  Page:109 - url :https://www.imdb.com/feature/bornondate/?ref_=nv_cel_brn
+2021-06-18 20:09:41 INFO  Page:123 - https://www.imdb.com/feature/bornondate/?ref_=nv_cel_brnLinki çalışıyor
+2021-06-18 20:09:41 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:41 INFO  Page:109 - url :https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brn
+2021-06-18 20:09:42 INFO  Page:123 - https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brnLinki çalışıyor
+2021-06-18 20:09:42 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:42 INFO  Page:109 - url :https://www.imdb.com/search/name/?gender=male%2Cfemale&ref_=nv_cel_m
+2021-06-18 20:09:42 INFO  Page:123 - https://www.imdb.com/search/name/?gender=male%2Cfemale&ref_=nv_cel_mLinki çalışıyor
+2021-06-18 20:09:42 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:42 INFO  Page:109 - url :https://www.imdb.com/news/celebrity/?ref_=nv_cel_nw
+2021-06-18 20:09:42 INFO  Page:123 - https://www.imdb.com/news/celebrity/?ref_=nv_cel_nwLinki çalışıyor
+2021-06-18 20:09:42 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:42 INFO  Page:109 - url :https://help.imdb.com/imdb?ref_=cons_nb_hlp
+2021-06-18 20:09:43 INFO  Page:123 - https://help.imdb.com/imdb?ref_=cons_nb_hlpLinki çalışıyor
+2021-06-18 20:09:43 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:43 INFO  Page:109 - url :https://contribute.imdb.com/czone?ref_=nv_cm_cz
+2021-06-18 20:09:44 INFO  Page:123 - https://contribute.imdb.com/czone?ref_=nv_cm_czLinki çalışıyor
+2021-06-18 20:09:44 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:44 INFO  Page:109 - url :https://www.imdb.com/poll/?ref_=nv_cm_pl
+2021-06-18 20:09:45 INFO  Page:123 - https://www.imdb.com/poll/?ref_=nv_cm_plLinki çalışıyor
+2021-06-18 20:09:45 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:45 INFO  Page:109 - url :https://pro.imdb.com/?ref_=cons_nb_hm&rf=cons_nb_hm
+2021-06-18 20:09:45 INFO  Page:123 - https://pro.imdb.com/?ref_=cons_nb_hm&rf=cons_nb_hmLinki çalışıyor
+2021-06-18 20:09:45 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:45 INFO  Page:109 - url :https://www.imdb.com/?ref_=nv_home
+2021-06-18 20:09:46 INFO  Page:123 - https://www.imdb.com/?ref_=nv_homeLinki çalışıyor
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :null
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :https://www.imdb.com/search/
+2021-06-18 20:09:46 INFO  Page:123 - https://www.imdb.com/search/Linki çalışıyor
+2021-06-18 20:09:46 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:46 INFO  Page:109 - url :https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hm
+2021-06-18 20:09:47 INFO  Page:123 - https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hmLinki çalışıyor
+2021-06-18 20:09:47 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:47 INFO  Page:109 - url :https://www.imdb.com/list/watchlist?ref_=nv_usr_wl_all_0
+2021-06-18 20:09:47 INFO  Page:123 - https://www.imdb.com/list/watchlist?ref_=nv_usr_wl_all_0Linki çalışıyor
+2021-06-18 20:09:47 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:47 INFO  Page:109 - url :https://www.imdb.com/registration/signin?ref=nv_generic_lgin
+2021-06-18 20:09:47 INFO  Page:123 - https://www.imdb.com/registration/signin?ref=nv_generic_lginLinki çalışıyor
+2021-06-18 20:09:47 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:47 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/?ref_=ttmi_tt
+2021-06-18 20:09:49 INFO  Page:123 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_ttLinki çalışıyor
+2021-06-18 20:09:49 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:49 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/?ref_=ttmi_tt
+2021-06-18 20:09:49 INFO  Page:123 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_ttLinki çalışıyor
+2021-06-18 20:09:49 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:49 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm910864384?ref_=ttmi_mi_all_sf_1
+2021-06-18 20:09:49 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm910864384?ref_=ttmi_mi_all_sf_1Linki çalışıyor
+2021-06-18 20:09:49 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:49 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm894087168?ref_=ttmi_mi_all_sf_2
+2021-06-18 20:09:50 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm894087168?ref_=ttmi_mi_all_sf_2Linki çalışıyor
+2021-06-18 20:09:50 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:50 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm877309952?ref_=ttmi_mi_all_sf_3
+2021-06-18 20:09:50 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm877309952?ref_=ttmi_mi_all_sf_3Linki çalışıyor
+2021-06-18 20:09:50 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:50 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm860532736?ref_=ttmi_mi_all_sf_4
+2021-06-18 20:09:51 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm860532736?ref_=ttmi_mi_all_sf_4Linki çalışıyor
+2021-06-18 20:09:51 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:51 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm843755520?ref_=ttmi_mi_all_sf_5
+2021-06-18 20:09:51 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm843755520?ref_=ttmi_mi_all_sf_5Linki çalışıyor
+2021-06-18 20:09:51 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:51 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm826978304?ref_=ttmi_mi_all_sf_6
+2021-06-18 20:09:52 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm826978304?ref_=ttmi_mi_all_sf_6Linki çalışıyor
+2021-06-18 20:09:52 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:52 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm810201088?ref_=ttmi_mi_all_sf_7
+2021-06-18 20:09:53 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm810201088?ref_=ttmi_mi_all_sf_7Linki çalışıyor
+2021-06-18 20:09:53 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:53 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1061859328?ref_=ttmi_mi_all_sf_8
+2021-06-18 20:09:53 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1061859328?ref_=ttmi_mi_all_sf_8Linki çalışıyor
+2021-06-18 20:09:53 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:53 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1045082112?ref_=ttmi_mi_all_sf_9
+2021-06-18 20:09:54 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045082112?ref_=ttmi_mi_all_sf_9Linki çalışıyor
+2021-06-18 20:09:54 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:54 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2618737152?ref_=ttmi_mi_all_pos_10
+2021-06-18 20:09:54 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2618737152?ref_=ttmi_mi_all_pos_10Linki çalışıyor
+2021-06-18 20:09:54 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:54 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3513371136?ref_=ttmi_mi_all_pos_11
+2021-06-18 20:09:54 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3513371136?ref_=ttmi_mi_all_pos_11Linki çalışıyor
+2021-06-18 20:09:54 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:54 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3657144832?ref_=ttmi_mi_all_pos_12
+2021-06-18 20:09:55 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3657144832?ref_=ttmi_mi_all_pos_12Linki çalışıyor
+2021-06-18 20:09:55 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:55 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1198235136?ref_=ttmi_mi_all_prd_13
+2021-06-18 20:09:55 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1198235136?ref_=ttmi_mi_all_prd_13Linki çalışıyor
+2021-06-18 20:09:55 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:55 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1111137792?ref_=ttmi_mi_all_prd_14
+2021-06-18 20:09:56 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1111137792?ref_=ttmi_mi_all_prd_14Linki çalışıyor
+2021-06-18 20:09:56 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:56 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2521537792?ref_=ttmi_mi_all_prd_15
+2021-06-18 20:09:56 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2521537792?ref_=ttmi_mi_all_prd_15Linki çalışıyor
+2021-06-18 20:09:56 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:56 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm13918720?ref_=ttmi_mi_all_sf_16
+2021-06-18 20:09:57 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm13918720?ref_=ttmi_mi_all_sf_16Linki çalışıyor
+2021-06-18 20:09:57 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:57 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm114582016?ref_=ttmi_mi_all_sf_17
+2021-06-18 20:09:57 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm114582016?ref_=ttmi_mi_all_sf_17Linki çalışıyor
+2021-06-18 20:09:57 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:57 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm852779520?ref_=ttmi_mi_all_sf_18
+2021-06-18 20:09:58 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm852779520?ref_=ttmi_mi_all_sf_18Linki çalışıyor
+2021-06-18 20:09:58 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:58 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm718561792?ref_=ttmi_mi_all_sf_19
+2021-06-18 20:09:58 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm718561792?ref_=ttmi_mi_all_sf_19Linki çalışıyor
+2021-06-18 20:09:58 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:58 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm617898496?ref_=ttmi_mi_all_sf_20
+2021-06-18 20:09:58 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm617898496?ref_=ttmi_mi_all_sf_20Linki çalışıyor
+2021-06-18 20:09:58 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:58 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3587400192?ref_=ttmi_mi_all_sf_21
+2021-06-18 20:09:59 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3587400192?ref_=ttmi_mi_all_sf_21Linki çalışıyor
+2021-06-18 20:09:59 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:09:59 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2360758528?ref_=ttmi_mi_all_sf_22
+2021-06-18 20:10:00 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2360758528?ref_=ttmi_mi_all_sf_22Linki çalışıyor
+2021-06-18 20:10:00 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:00 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm141888000?ref_=ttmi_mi_all_sf_23
+2021-06-18 20:10:00 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm141888000?ref_=ttmi_mi_all_sf_23Linki çalışıyor
+2021-06-18 20:10:00 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:00 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1147111169?ref_=ttmi_mi_all_bts_24
+2021-06-18 20:10:00 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1147111169?ref_=ttmi_mi_all_bts_24Linki çalışıyor
+2021-06-18 20:10:00 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:00 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3331500801?ref_=ttmi_mi_all_pos_25
+2021-06-18 20:10:01 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3331500801?ref_=ttmi_mi_all_pos_25Linki çalışıyor
+2021-06-18 20:10:01 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:01 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm628847872?ref_=ttmi_mi_all_pos_26
+2021-06-18 20:10:01 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm628847872?ref_=ttmi_mi_all_pos_26Linki çalışıyor
+2021-06-18 20:10:01 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:01 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2808508416?ref_=ttmi_mi_all_pos_27
+2021-06-18 20:10:02 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2808508416?ref_=ttmi_mi_all_pos_27Linki çalışıyor
+2021-06-18 20:10:02 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:02 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3622400000?ref_=ttmi_mi_all_pos_28
+2021-06-18 20:10:02 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3622400000?ref_=ttmi_mi_all_pos_28Linki çalışıyor
+2021-06-18 20:10:02 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:02 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2461826816?ref_=ttmi_mi_all_pos_29
+2021-06-18 20:10:03 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2461826816?ref_=ttmi_mi_all_pos_29Linki çalışıyor
+2021-06-18 20:10:03 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:03 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1810711808?ref_=ttmi_mi_all_pos_30
+2021-06-18 20:10:03 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1810711808?ref_=ttmi_mi_all_pos_30Linki çalışıyor
+2021-06-18 20:10:03 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:03 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2799782656?ref_=ttmi_mi_all_pos_31
+2021-06-18 20:10:03 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2799782656?ref_=ttmi_mi_all_pos_31Linki çalışıyor
+2021-06-18 20:10:03 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:03 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1062155264?ref_=ttmi_mi_all_pos_32
+2021-06-18 20:10:04 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1062155264?ref_=ttmi_mi_all_pos_32Linki çalışıyor
+2021-06-18 20:10:04 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:04 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3326753536?ref_=ttmi_mi_all_pos_33
+2021-06-18 20:10:04 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3326753536?ref_=ttmi_mi_all_pos_33Linki çalışıyor
+2021-06-18 20:10:04 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:04 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3796515584?ref_=ttmi_mi_all_pos_34
+2021-06-18 20:10:05 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3796515584?ref_=ttmi_mi_all_pos_34Linki çalışıyor
+2021-06-18 20:10:05 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:05 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm1045378048?ref_=ttmi_mi_all_prd_35
+2021-06-18 20:10:05 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045378048?ref_=ttmi_mi_all_prd_35Linki çalışıyor
+2021-06-18 20:10:05 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:05 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3377085184?ref_=ttmi_mi_all_art_36
+2021-06-18 20:10:06 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3377085184?ref_=ttmi_mi_all_art_36Linki çalışıyor
+2021-06-18 20:10:06 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:06 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3309976320?ref_=ttmi_mi_all_art_37
+2021-06-18 20:10:06 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3309976320?ref_=ttmi_mi_all_art_37Linki çalışıyor
+2021-06-18 20:10:06 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:06 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3947510528?ref_=ttmi_mi_all_art_38
+2021-06-18 20:10:07 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3947510528?ref_=ttmi_mi_all_art_38Linki çalışıyor
+2021-06-18 20:10:07 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:07 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3981064960?ref_=ttmi_mi_all_art_39
+2021-06-18 20:10:07 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3981064960?ref_=ttmi_mi_all_art_39Linki çalışıyor
+2021-06-18 20:10:07 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:07 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm4014619392?ref_=ttmi_mi_all_art_40
+2021-06-18 20:10:07 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm4014619392?ref_=ttmi_mi_all_art_40Linki çalışıyor
+2021-06-18 20:10:07 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:07 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm3779738368?ref_=ttmi_mi_all_art_41
+2021-06-18 20:10:08 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3779738368?ref_=ttmi_mi_all_art_41Linki çalışıyor
+2021-06-18 20:10:08 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:08 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2537947392?ref_=ttmi_mi_all_art_42
+2021-06-18 20:10:08 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2537947392?ref_=ttmi_mi_all_art_42Linki çalışıyor
+2021-06-18 20:10:08 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:08 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2336620800?ref_=ttmi_mi_all_art_43
+2021-06-18 20:10:09 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2336620800?ref_=ttmi_mi_all_art_43Linki çalışıyor
+2021-06-18 20:10:09 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:09 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaviewer/rm2202403072?ref_=ttmi_mi_all_art_44
+2021-06-18 20:10:09 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2202403072?ref_=ttmi_mi_all_art_44Linki çalışıyor
+2021-06-18 20:10:09 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:09 INFO  Page:109 - url :https://www.imdb.com/registration/signin?u=https%3A//www.imdb.com/title/tt0018037/mediaindex%3Fref_%3Dtt_pv_mi_sm
+2021-06-18 20:10:09 INFO  Page:123 - https://www.imdb.com/registration/signin?u=https%3A//www.imdb.com/title/tt0018037/mediaindex%3Fref_%3Dtt_pv_mi_smLinki çalışıyor
+2021-06-18 20:10:09 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:09 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/videoplayer/vi1399504665?ref_=tt_pv_vi_aiv_1
+2021-06-18 20:10:10 INFO  Page:123 - https://www.imdb.com/title/tt0018037/videoplayer/vi1399504665?ref_=tt_pv_vi_aiv_1Linki çalışıyor
+2021-06-18 20:10:10 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:10 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/videogallery?ref_=tt_pv_vi_sm
+2021-06-18 20:10:11 INFO  Page:123 - https://www.imdb.com/title/tt0018037/videogallery?ref_=tt_pv_vi_smLinki çalışıyor
+2021-06-18 20:10:11 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:11 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_stry_pl
+2021-06-18 20:10:12 INFO  Page:123 - https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_stry_plLinki çalışıyor
+2021-06-18 20:10:12 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:12 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=still_frame&ref_=ttmi_ref_sf
+2021-06-18 20:10:12 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=still_frame&ref_=ttmi_ref_sfLinki çalışıyor
+2021-06-18 20:10:12 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:12 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=poster&ref_=ttmi_ref_pos
+2021-06-18 20:10:12 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=poster&ref_=ttmi_ref_posLinki çalışıyor
+2021-06-18 20:10:12 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:12 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=production_art&ref_=ttmi_ref_art
+2021-06-18 20:10:12 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=production_art&ref_=ttmi_ref_artLinki çalışıyor
+2021-06-18 20:10:12 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:12 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=product&ref_=ttmi_ref_prd
+2021-06-18 20:10:13 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=product&ref_=ttmi_ref_prdLinki çalışıyor
+2021-06-18 20:10:13 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:13 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=behind_the_scenes&ref_=ttmi_ref_bts
+2021-06-18 20:10:13 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=behind_the_scenes&ref_=ttmi_ref_btsLinki çalışıyor
+2021-06-18 20:10:13 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:13 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0427231&ref_=ttmi_ref_nm
+2021-06-18 20:10:13 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0427231&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:13 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:13 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0078806&ref_=ttmi_ref_nm
+2021-06-18 20:10:14 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0078806&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:14 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:14 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0564219&ref_=ttmi_ref_nm
+2021-06-18 20:10:14 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0564219&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:14 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:14 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0274864&ref_=ttmi_ref_nm
+2021-06-18 20:10:15 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0274864&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:15 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:15 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0646931&ref_=ttmi_ref_nm
+2021-06-18 20:10:15 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0646931&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:15 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:15 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0822971&ref_=ttmi_ref_nm
+2021-06-18 20:10:15 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0822971&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:15 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:16 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0001485&ref_=ttmi_ref_nm
+2021-06-18 20:10:16 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0001485&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:16 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:16 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm6444019&ref_=ttmi_ref_nm
+2021-06-18 20:10:16 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm6444019&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:16 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:16 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0645941&ref_=ttmi_ref_nm
+2021-06-18 20:10:16 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0645941&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:16 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:16 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0189076&ref_=ttmi_ref_nm
+2021-06-18 20:10:17 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0189076&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:17 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:17 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0217552&ref_=ttmi_ref_nm
+2021-06-18 20:10:17 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0217552&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:17 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:17 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0339803&ref_=ttmi_ref_nm
+2021-06-18 20:10:17 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0339803&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:17 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:17 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm2106150&ref_=ttmi_ref_nm
+2021-06-18 20:10:17 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm2106150&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:17 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:17 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0033985&ref_=ttmi_ref_nm
+2021-06-18 20:10:18 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0033985&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:18 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:18 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0250240&ref_=ttmi_ref_nm
+2021-06-18 20:10:18 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0250240&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:18 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:18 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0330036&ref_=ttmi_ref_nm
+2021-06-18 20:10:18 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0330036&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:18 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:18 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0083460&ref_=ttmi_ref_nm
+2021-06-18 20:10:18 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0083460&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-18 20:10:18 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:18 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?refine=rg853383936&ref_=ttmi_ref_gal
+2021-06-18 20:10:19 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?refine=rg853383936&ref_=ttmi_ref_galLinki çalışıyor
+2021-06-18 20:10:19 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:19 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/?ref_=ttmi_ql
+2021-06-18 20:10:19 INFO  Page:123 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_qlLinki çalışıyor
+2021-06-18 20:10:19 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:19 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?ref_=ttmi_ql_1
+2021-06-18 20:10:20 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?ref_=ttmi_ql_1Linki çalışıyor
+2021-06-18 20:10:20 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:20 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/videogallery?ref_=ttmi_ql_2
+2021-06-18 20:10:20 INFO  Page:123 - https://www.imdb.com/title/tt0018037/videogallery?ref_=ttmi_ql_2Linki çalışıyor
+2021-06-18 20:10:20 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:20 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/fullcredits?ref_=ttmi_ql_dt_1
+2021-06-18 20:10:21 INFO  Page:123 - https://www.imdb.com/title/tt0018037/fullcredits?ref_=ttmi_ql_dt_1Linki çalışıyor
+2021-06-18 20:10:21 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:21 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/releaseinfo?ref_=ttmi_ql_dt_2
+2021-06-18 20:10:21 INFO  Page:123 - https://www.imdb.com/title/tt0018037/releaseinfo?ref_=ttmi_ql_dt_2Linki çalışıyor
+2021-06-18 20:10:21 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:21 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/officialsites?ref_=ttmi_ql_dt_3
+2021-06-18 20:10:22 INFO  Page:123 - https://www.imdb.com/title/tt0018037/officialsites?ref_=ttmi_ql_dt_3Linki çalışıyor
+2021-06-18 20:10:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:22 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/companycredits?ref_=ttmi_ql_dt_4
+2021-06-18 20:10:22 INFO  Page:123 - https://www.imdb.com/title/tt0018037/companycredits?ref_=ttmi_ql_dt_4Linki çalışıyor
+2021-06-18 20:10:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:22 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/locations?ref_=ttmi_ql_dt_5
+2021-06-18 20:10:22 INFO  Page:123 - https://www.imdb.com/title/tt0018037/locations?ref_=ttmi_ql_dt_5Linki çalışıyor
+2021-06-18 20:10:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:22 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/technical?ref_=ttmi_ql_dt_6
+2021-06-18 20:10:22 INFO  Page:123 - https://www.imdb.com/title/tt0018037/technical?ref_=ttmi_ql_dt_6Linki çalışıyor
+2021-06-18 20:10:22 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:23 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/taglines?ref_=ttmi_ql_stry_1
+2021-06-18 20:10:23 INFO  Page:123 - https://www.imdb.com/title/tt0018037/taglines?ref_=ttmi_ql_stry_1Linki çalışıyor
+2021-06-18 20:10:23 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:23 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_ql_stry_2
+2021-06-18 20:10:23 INFO  Page:123 - https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_ql_stry_2Linki çalışıyor
+2021-06-18 20:10:23 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:23 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/synopsis?ref_=ttmi_ql_stry_3
+2021-06-18 20:10:24 INFO  Page:123 - https://www.imdb.com/title/tt0018037/synopsis?ref_=ttmi_ql_stry_3Linki çalışıyor
+2021-06-18 20:10:24 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:24 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/keywords?ref_=ttmi_ql_stry_4
+2021-06-18 20:10:24 INFO  Page:123 - https://www.imdb.com/title/tt0018037/keywords?ref_=ttmi_ql_stry_4Linki çalışıyor
+2021-06-18 20:10:24 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:24 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/parentalguide?ref_=ttmi_ql_stry_5
+2021-06-18 20:10:24 INFO  Page:123 - https://www.imdb.com/title/tt0018037/parentalguide?ref_=ttmi_ql_stry_5Linki çalışıyor
+2021-06-18 20:10:24 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:24 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/trivia?ref_=ttmi_ql_trv_1
+2021-06-18 20:10:25 INFO  Page:123 - https://www.imdb.com/title/tt0018037/trivia?ref_=ttmi_ql_trv_1Linki çalışıyor
+2021-06-18 20:10:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:25 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/goofs?ref_=ttmi_ql_trv_2
+2021-06-18 20:10:25 INFO  Page:123 - https://www.imdb.com/title/tt0018037/goofs?ref_=ttmi_ql_trv_2Linki çalışıyor
+2021-06-18 20:10:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:25 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/crazycredits?ref_=ttmi_ql_trv_3
+2021-06-18 20:10:25 INFO  Page:123 - https://www.imdb.com/title/tt0018037/crazycredits?ref_=ttmi_ql_trv_3Linki çalışıyor
+2021-06-18 20:10:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:25 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/quotes?ref_=ttmi_ql_trv_4
+2021-06-18 20:10:25 INFO  Page:123 - https://www.imdb.com/title/tt0018037/quotes?ref_=ttmi_ql_trv_4Linki çalışıyor
+2021-06-18 20:10:25 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:25 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/alternateversions?ref_=ttmi_ql_trv_5
+2021-06-18 20:10:26 INFO  Page:123 - https://www.imdb.com/title/tt0018037/alternateversions?ref_=ttmi_ql_trv_5Linki çalışıyor
+2021-06-18 20:10:26 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:26 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/movieconnections?ref_=ttmi_ql_trv_6
+2021-06-18 20:10:26 INFO  Page:123 - https://www.imdb.com/title/tt0018037/movieconnections?ref_=ttmi_ql_trv_6Linki çalışıyor
+2021-06-18 20:10:26 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:26 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/soundtrack?ref_=ttmi_ql_trv_7
+2021-06-18 20:10:26 INFO  Page:123 - https://www.imdb.com/title/tt0018037/soundtrack?ref_=ttmi_ql_trv_7Linki çalışıyor
+2021-06-18 20:10:26 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:26 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/awards?ref_=ttmi_ql_op_1
+2021-06-18 20:10:27 INFO  Page:123 - https://www.imdb.com/title/tt0018037/awards?ref_=ttmi_ql_op_1Linki çalışıyor
+2021-06-18 20:10:27 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:27 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/faq?ref_=ttmi_ql_op_2
+2021-06-18 20:10:27 INFO  Page:123 - https://www.imdb.com/title/tt0018037/faq?ref_=ttmi_ql_op_2Linki çalışıyor
+2021-06-18 20:10:27 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:27 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/reviews?ref_=ttmi_ql_op_3
+2021-06-18 20:10:28 INFO  Page:123 - https://www.imdb.com/title/tt0018037/reviews?ref_=ttmi_ql_op_3Linki çalışıyor
+2021-06-18 20:10:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:28 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/ratings?ref_=ttmi_ql_op_4
+2021-06-18 20:10:28 INFO  Page:123 - https://www.imdb.com/title/tt0018037/ratings?ref_=ttmi_ql_op_4Linki çalışıyor
+2021-06-18 20:10:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:28 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/externalreviews?ref_=ttmi_ql_op_5
+2021-06-18 20:10:28 INFO  Page:123 - https://www.imdb.com/title/tt0018037/externalreviews?ref_=ttmi_ql_op_5Linki çalışıyor
+2021-06-18 20:10:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:28 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/criticreviews?ref_=ttmi_ql_op_6
+2021-06-18 20:10:28 INFO  Page:123 - https://www.imdb.com/title/tt0018037/criticreviews?ref_=ttmi_ql_op_6Linki çalışıyor
+2021-06-18 20:10:28 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:28 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/tvschedule?ref_=ttmi_ql_tv_1
+2021-06-18 20:10:29 INFO  Page:123 - https://www.imdb.com/title/tt0018037/tvschedule?ref_=ttmi_ql_tv_1Linki çalışıyor
+2021-06-18 20:10:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:29 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/news?ref_=ttmi_ql_rel_1
+2021-06-18 20:10:29 INFO  Page:123 - https://www.imdb.com/title/tt0018037/news?ref_=ttmi_ql_rel_1Linki çalışıyor
+2021-06-18 20:10:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:29 INFO  Page:109 - url :https://www.imdb.com/showtimes/title/tt0018037?ref_=ttmi_ql_rel_2
+2021-06-18 20:10:29 INFO  Page:123 - https://www.imdb.com/showtimes/title/tt0018037?ref_=ttmi_ql_rel_2Linki çalışıyor
+2021-06-18 20:10:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:29 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/externalsites?ref_=ttmi_ql_rel_3
+2021-06-18 20:10:29 INFO  Page:123 - https://www.imdb.com/title/tt0018037/externalsites?ref_=ttmi_ql_rel_3Linki çalışıyor
+2021-06-18 20:10:29 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:30 INFO  Page:109 - url :https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2F
+2021-06-18 20:10:30 INFO  Page:123 - https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FLinki çalışıyor
+2021-06-18 20:10:30 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:30 INFO  Page:109 - url :https://twitter.com/intent/tweet?text=Caz%20Mugannisi%20(1927)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2F
+2021-06-18 20:10:31 INFO  Page:123 - https://twitter.com/intent/tweet?text=Caz%20Mugannisi%20(1927)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FLinki çalışıyor
+2021-06-18 20:10:31 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:31 INFO  Page:109 - url :http://www.imdb.com/title/tt0018037/
+2021-06-18 20:10:31 INFO  Page:123 - http://www.imdb.com/title/tt0018037/Linki çalışıyor
+2021-06-18 20:10:31 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:31 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?ref_=tt_pv_mi_sm#
+2021-06-18 20:10:31 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?ref_=tt_pv_mi_sm#Linki çalışıyor
+2021-06-18 20:10:31 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:31 INFO  Page:109 - url :https://slyb.app.link/SKdyQ6A449
+2021-06-18 20:10:32 INFO  Page:123 - https://slyb.app.link/SKdyQ6A449Linki çalışıyor
+2021-06-18 20:10:32 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:32 INFO  Page:109 - url :https://facebook.com/imdb
+2021-06-18 20:10:33 INFO  Page:123 - https://facebook.com/imdbLinki çalışıyor
+2021-06-18 20:10:33 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:33 INFO  Page:109 - url :https://instagram.com/imdb
+2021-06-18 20:10:34 INFO  Page:121 - https://instagram.com/imdbLinki çalışmıyor
+2021-06-18 20:10:34 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:34 INFO  Page:109 - url :https://twitch.tv/IMDb
+2021-06-18 20:10:35 INFO  Page:123 - https://twitch.tv/IMDbLinki çalışıyor
+2021-06-18 20:10:35 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:35 INFO  Page:109 - url :https://twitter.com/imdb
+2021-06-18 20:10:35 INFO  Page:123 - https://twitter.com/imdbLinki çalışıyor
+2021-06-18 20:10:35 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:35 INFO  Page:109 - url :https://youtube.com/imdb/
+2021-06-18 20:10:36 INFO  Page:123 - https://youtube.com/imdb/Linki çalışıyor
+2021-06-18 20:10:36 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:36 INFO  Page:109 - url :https://slyb.app.link/SKdyQ6A449
+2021-06-18 20:10:36 INFO  Page:123 - https://slyb.app.link/SKdyQ6A449Linki çalışıyor
+2021-06-18 20:10:36 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:36 INFO  Page:109 - url :https://www.imdb.com/title/tt0018037/mediaindex?mode=desktop&ref_=m_ft_dsk
+2021-06-18 20:10:37 INFO  Page:123 - https://www.imdb.com/title/tt0018037/mediaindex?mode=desktop&ref_=m_ft_dskLinki çalışıyor
+2021-06-18 20:10:37 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:37 INFO  Page:109 - url :https://help.imdb.com/imdb
+2021-06-18 20:10:37 INFO  Page:123 - https://help.imdb.com/imdbLinki çalışıyor
+2021-06-18 20:10:37 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:37 INFO  Page:109 - url :https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so
+2021-06-18 20:10:38 INFO  Page:123 - https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#soLinki çalışıyor
+2021-06-18 20:10:38 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:38 INFO  Page:109 - url :https://pro.imdb.com/?ref_=ft_pro&rf=cons_tf_pro
+2021-06-18 20:10:39 INFO  Page:123 - https://pro.imdb.com/?ref_=ft_pro&rf=cons_tf_proLinki çalışıyor
+2021-06-18 20:10:39 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:39 INFO  Page:109 - url :https://www.boxofficemojo.com/
+2021-06-18 20:10:40 INFO  Page:123 - https://www.boxofficemojo.com/Linki çalışıyor
+2021-06-18 20:10:40 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:40 INFO  Page:109 - url :https://developer.imdb.com/
+2021-06-18 20:10:40 INFO  Page:123 - https://developer.imdb.com/Linki çalışıyor
+2021-06-18 20:10:40 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:40 INFO  Page:109 - url :https://www.imdb.com/pressroom/?ref_=ft_pr
+2021-06-18 20:10:41 INFO  Page:123 - https://www.imdb.com/pressroom/?ref_=ft_prLinki çalışıyor
+2021-06-18 20:10:41 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:41 INFO  Page:109 - url :https://advertising.amazon.com/resources/ad-specs/imdb/
+2021-06-18 20:10:41 INFO  Page:123 - https://advertising.amazon.com/resources/ad-specs/imdb/Linki çalışıyor
+2021-06-18 20:10:41 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:41 INFO  Page:109 - url :https://www.amazon.jobs/en/teams/imdb
+2021-06-18 20:10:42 INFO  Page:123 - https://www.amazon.jobs/en/teams/imdbLinki çalışıyor
+2021-06-18 20:10:42 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:42 INFO  Page:109 - url :https://www.imdb.com/conditions?ref_=ft_cou
+2021-06-18 20:10:42 INFO  Page:123 - https://www.imdb.com/conditions?ref_=ft_couLinki çalışıyor
+2021-06-18 20:10:42 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:42 INFO  Page:109 - url :https://www.imdb.com/privacy?ref_=ft_pvc
+2021-06-18 20:10:43 INFO  Page:123 - https://www.imdb.com/privacy?ref_=ft_pvcLinki çalışıyor
+2021-06-18 20:10:43 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:43 INFO  Page:109 - url :https://www.amazon.com/b/?&node=5160028011
+2021-06-18 20:10:43 INFO  Page:121 - https://www.amazon.com/b/?&node=5160028011Linki çalışmıyor
+2021-06-18 20:10:43 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:43 INFO  Page:109 - url :http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2Fmediaindex
+2021-06-18 20:10:43 INFO  Page:123 - http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FmediaindexLinki çalışıyor
+2021-06-18 20:10:43 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:43 INFO  Page:109 - url :http://twitter.com/intent/tweet?text=Check%20out%20this%20video%20-%20%20from%20undefined%20-%20on%20IMDb!%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2Fmediaindex
+2021-06-18 20:10:43 INFO  Page:123 - http://twitter.com/intent/tweet?text=Check%20out%20this%20video%20-%20%20from%20undefined%20-%20on%20IMDb!%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FmediaindexLinki çalışıyor
+2021-06-18 20:10:43 INFO  Page:133 - Filmle ilgili linklerde kırık yok.
+2021-06-18 20:10:43 INFO  Page:109 - url :mailto:?subject=Watch%20this%20video%20on%20IMDb!&body=Check%20out%20this%20video%20-%20%20from%20undefined%20-%20on%20IMDb!%20-%20https://www.imdb.com/title/tt0018037/mediaindex
+2021-06-18 20:15:07 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:15:07 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:15:12 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:15:14 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:15:14 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:15:18 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:15:21 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 20:15:21 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 20:15:23 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 20:15:23 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 20:15:25 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 20:15:29 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 20:15:31 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:15:31 INFO  Page:85 - Cast eşit değil
+2021-06-18 20:15:34 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-18 20:15:36 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-18 20:15:36 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-18 20:21:45 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:21:45 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:21:49 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:21:52 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:21:52 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:21:55 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:21:57 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 20:21:57 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 20:22:00 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 20:22:00 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 20:22:02 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 20:22:05 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 20:22:07 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:22:09 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-18 20:22:11 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-18 20:22:11 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-18 20:23:32 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-18 20:23:32 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-18 20:23:36 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-18 20:23:38 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-18 20:23:38 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-18 20:23:41 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-18 20:23:44 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-18 20:23:44 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-18 20:23:46 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-18 20:23:46 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-18 20:23:47 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-18 20:23:50 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-18 20:23:52 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-18 20:23:52 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-18 20:23:54 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-18 20:23:56 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-18 20:23:56 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
