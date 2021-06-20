@@ -9,11 +9,22 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
 public class BasePage {
     protected WebDriver driver = BaseTest.driver;
     private WebDriverWait wait = new WebDriverWait(driver, 15, 1000);
     protected Actions action = new Actions(driver);
     private Logger LOGGER = Logger.getLogger(BasePage.class);
+    private String url="";
+    HttpURLConnection huc = null;
+    int respCode = 200;
 
     protected WebElement getElement(ElementInfo elementInfo) {
         return driver.findElement(elementInfo.getBy());
@@ -85,5 +96,55 @@ public class BasePage {
     }
     protected boolean isElementExist(By by){
         return !driver.findElements(by).isEmpty();
+    }
+    public boolean creditCheck(List<WebElement> elm, List<WebElement> elm2) {
+
+        List<String> str=new ArrayList<>();
+        List<String> compr=new ArrayList<>();
+        for (WebElement web: elm) {
+            str.add(web.getText());
+        }
+        for (WebElement web: elm2) {
+            compr.add(web.getText());
+        }
+
+        return str.equals(compr);
+    }
+    public void linkChecker(List<WebElement> links){
+        int count = 0;
+        Iterator<WebElement> it = links.iterator();
+        while (it.hasNext()) {
+
+            url = it.next().getAttribute("href");
+            try {
+                huc = (HttpURLConnection) (new URL(url).openConnection());
+
+                huc.setRequestMethod("HEAD");
+
+                huc.connect();
+
+                respCode = huc.getResponseCode();
+
+                if (respCode >= 400) {
+                    LOGGER.info(url + "  Linki çalışmıyor");
+                    count++;
+
+                } else {
+                    //LOGGER.info(url + "  Linki çalışıyor");
+
+                }
+
+            } catch (MalformedURLException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+        }
+        LOGGER.info("Toplam Link sayısı : "+ links.size() + " Çalışmayan link sayısı :"+count);
+        if(count>0)LOGGER.info("Çalışmayan link var..");
+        else LOGGER.info("Linklerde kırık yok..");
+
     }
 }

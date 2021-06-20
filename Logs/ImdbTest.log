@@ -1359,3 +1359,269 @@
 2021-06-20 23:28:27 INFO  Page:114 - Fotoğraf linkleri kontrol ediliyor...
 2021-06-20 23:28:40 INFO  Page:146 -  Toplam Link sayısı : 45 Çalışmayan link sayısı :0
 2021-06-20 23:28:40 INFO  Page:148 - Fotoğraf linklerinde kırık yok..
+2021-06-21 01:31:11 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 01:31:11 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 01:31:16 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 01:31:20 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 01:31:20 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-21 01:31:23 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-21 01:31:25 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-21 01:31:25 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 01:31:27 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-21 01:31:27 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 01:31:29 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-21 01:31:32 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 01:31:34 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-21 01:31:34 INFO  Page:100 - Director, Writer, Stars Bilgileri aynı.
+2021-06-21 01:31:36 INFO  Page:107 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 01:31:39 INFO  Page:112 - See All photos linkine tıklandı.
+2021-06-21 01:31:39 INFO  Page:114 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 01:32:00 INFO  Page:146 -  Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 01:32:00 INFO  Page:148 - Fotoğraf linklerinde kırık yok..
+2021-06-21 01:33:19 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 01:33:20 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 01:33:23 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 01:33:26 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 01:33:26 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-21 01:33:29 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-21 01:33:31 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-21 01:33:31 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 01:33:33 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-21 01:33:33 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 01:33:35 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-21 01:33:37 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 01:33:40 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-21 01:33:40 INFO  Page:101 - Director, Writer, Stars Bilgileri aynı.
+2021-06-21 01:33:42 INFO  Page:108 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:06:57 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:06:57 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:07:01 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:07:05 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:07:05 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:07:08 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:07:10 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:07:10 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:07:13 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:07:13 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:07:15 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:07:19 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:07:21 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:07:21 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:07:21 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:07:21 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:07:24 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:07:26 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:07:26 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:07:47 INFO  BasePage:148 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:07:47 INFO  BasePage:150 - Linklerde kırık yok..
+2021-06-21 02:11:03 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:11:03 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:11:06 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:11:09 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:11:09 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:11:13 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:11:16 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:11:16 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:11:18 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:11:18 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:11:20 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:11:22 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:11:24 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:11:24 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:11:24 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:11:24 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:11:26 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:12:55 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:12:55 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:12:59 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:13:01 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:13:01 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:13:04 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:13:08 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:13:08 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:13:10 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:13:10 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:13:12 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:13:14 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:13:16 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:13:16 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:13:16 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:13:16 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:13:18 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:13:20 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:13:20 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:13:35 INFO  BasePage:148 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:13:35 INFO  BasePage:150 - Linklerde kırık yok..
+2021-06-21 02:19:07 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:19:07 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:19:10 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:19:13 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:19:13 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:19:17 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:19:20 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:19:20 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:19:22 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:19:22 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:19:24 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:19:26 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:19:28 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:19:28 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:19:28 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:19:28 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:19:30 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:19:32 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:19:32 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:19:46 INFO  BasePage:148 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:19:46 INFO  BasePage:150 - Linklerde kırık yok..
+2021-06-21 02:20:07 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:20:08 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:20:12 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:20:14 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:20:14 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:20:18 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:20:20 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:20:20 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:20:22 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:20:22 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:20:24 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:20:27 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:20:29 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:20:29 INFO  Page:84 - Direktör bilgileri eşit.
+2021-06-21 02:20:29 INFO  Page:85 - Writer bilgileri eşit.
+2021-06-21 02:20:29 INFO  Page:86 - Stars bilgileri eşit.
+2021-06-21 02:20:32 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:20:35 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:20:35 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:20:48 INFO  BasePage:148 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:20:48 INFO  BasePage:150 - Linklerde kırık yok..
+2021-06-21 02:21:21 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:21:21 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:21:26 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:21:29 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:21:29 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:21:32 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:21:36 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:21:36 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:21:38 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:21:38 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:21:40 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:21:42 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:21:44 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:21:44 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:21:44 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:21:44 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:21:46 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:21:48 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:21:48 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:22:01 INFO  BasePage:148 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:22:01 INFO  BasePage:150 - Linklerde kırık yok..
+2021-06-21 02:23:26 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:23:26 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:23:31 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:23:34 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:23:34 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:23:37 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:23:39 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:23:39 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:23:40 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:23:41 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:23:42 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:23:45 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:23:46 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:23:46 INFO  Page:84 - Direktör bilgisi eşit değil
+2021-06-21 02:23:46 INFO  Page:85 - Writer bilgisi eşit değil
+2021-06-21 02:23:46 INFO  Page:86 - Stars bilgisi eşit değil
+2021-06-21 02:23:49 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:23:51 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:23:51 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:24:04 INFO  BasePage:149 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:24:04 INFO  BasePage:151 - Linklerde kırık yok..
+2021-06-21 02:27:28 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:27:28 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:27:32 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:27:35 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:27:35 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:27:38 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:27:41 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:27:41 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:27:43 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:27:43 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:27:45 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:27:46 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:27:49 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:30:15 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:30:15 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:30:20 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:30:23 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:30:23 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:30:26 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:30:28 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:30:28 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:30:30 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:30:30 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:30:32 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:30:34 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:30:36 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:47:10 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:47:11 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:47:29 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:47:30 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:47:30 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:47:34 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:47:37 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:47:37 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:47:39 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:47:39 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:47:40 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:47:42 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:47:45 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:47:45 INFO  Page:84 - Direktör bilgileri eşit.
+2021-06-21 02:47:45 INFO  Page:85 - Writer bilgileri eşit.
+2021-06-21 02:47:45 INFO  Page:86 - Stars bilgileri eşit.
+2021-06-21 02:47:46 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:47:48 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:47:48 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:48:08 INFO  BasePage:145 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:48:08 INFO  BasePage:147 - Linklerde kırık yok..
+2021-06-21 02:49:31 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:49:31 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:49:36 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:49:38 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:49:38 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:49:42 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:49:44 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:49:44 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:49:46 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:49:47 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:49:48 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:49:53 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:49:55 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:49:55 INFO  Page:84 - Direktör bilgileri eşit.
+2021-06-21 02:49:55 INFO  Page:85 - Writer bilgileri eşit.
+2021-06-21 02:49:55 INFO  Page:86 - Stars bilgileri eşit.
+2021-06-21 02:49:57 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:50:00 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:50:00 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:50:15 INFO  BasePage:146 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:50:15 INFO  BasePage:148 - Linklerde kırık yok..
+2021-06-21 02:50:53 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-21 02:50:53 INFO  Page:34 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-21 02:50:57 INFO  Page:37 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-21 02:50:59 INFO  Page:42 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-21 02:50:59 INFO  Page:45 - Sayfanın sonuna inildi
+2021-06-21 02:51:03 INFO  Page:48 - The Jazz Singer Seçilir
+2021-06-21 02:51:06 INFO  Page:55 - Full credit sayfası açıldı
+2021-06-21 02:51:06 INFO  Page:59 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-21 02:51:09 INFO  Page:65 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak Anasayfa’ya dönülür.
+2021-06-21 02:51:09 INFO  Page:67 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-21 02:51:12 INFO  Page:69 - Enter tuşuna basılı arama yapılır
+2021-06-21 02:51:14 INFO  Page:73 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-21 02:51:16 INFO  Page:80 - Full Credit sayfası açılır
+2021-06-21 02:51:16 INFO  Page:84 - Direktör bilgileri eşit.
+2021-06-21 02:51:16 INFO  Page:85 - Writer bilgileri eşit.
+2021-06-21 02:51:16 INFO  Page:86 - Stars bilgileri eşit.
+2021-06-21 02:51:18 INFO  Page:92 - Film bilgileri sayfasına geri dönüldü
+2021-06-21 02:51:21 INFO  Page:97 - See All photos linkine tıklandı.
+2021-06-21 02:51:21 INFO  Page:101 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-21 02:51:34 INFO  BasePage:147 - Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-21 02:51:34 INFO  BasePage:149 - Linklerde kırık yok..

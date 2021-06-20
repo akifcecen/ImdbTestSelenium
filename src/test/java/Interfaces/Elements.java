@@ -14,11 +14,11 @@ public interface Elements {
     public ElementInfo searchBox = new ElementInfo("Arama yapılamadı", By.xpath("//*[@id=\"suggestion-search\"]"));
     public ElementInfo creditSnd = new ElementInfo("Credit sayfası seçilemedi", By.xpath("//*[@id=\"title-overview-widget\"]/div[2]/div[1]/div[4]/a[4]"));
     public ElementInfo resultsTheJSinger = new ElementInfo("Arama yapılamadı", By.xpath("//*[@id=\"main\"]/div/div[2]/table/tbody/tr[2]/td[2]/a"));
-    public ElementInfo resultDirector = new ElementInfo("Sonuc kaydedilemedi", By.xpath("//*[@id=\"fullcredits_content\"]/table[1]"));
-    public ElementInfo resultWriter = new ElementInfo("Sonuc kaydedilemedi", By.xpath("//*[@id=\"fullcredits_content\"]/table[2]"));
-    public ElementInfo resultStars = new ElementInfo("Sonuc kaydedilemedi", By.xpath("//*[@id=\"fullcredits_content\"]/table[3]"));
+    public ElementInfo resultDirector = new ElementInfo("Sonuc kaydedilemedi", By.tagName("//*[@id=\"fullcredits_content\"]/table[1]/tbody/tr/td/a"));
+    public ElementInfo resultWriter = new ElementInfo("Sonuc kaydedilemedi", By.tagName("//*[@id=\"fullcredits_content\"]/table[2]/tbody/tr/td/a"));
+    public ElementInfo resultStars = new ElementInfo("Sonuc kaydedilemedi", By.tagName("//*[@id=\"fullcredits_content\"]/table[3]/tbody/tr/td/a"));
     public ElementInfo seeAllPhoto =new ElementInfo("Fotoğraflar açılamadı",By.xpath("//*[@id=\"titleImageStrip\"]/div[2]/a[2]"));
     public ElementInfo backToMovie =new ElementInfo("Filme geri dönülemedi",By.xpath("//*[@id=\"main\"]/div[1]/div[1]/div/div[1]/h3/a"));
     public ElementInfo getTheJazzSingerAlternateResult = new ElementInfo("Element tıklanmadı",By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[4]/ul/li[3]/a[2]"));
-    public ElementInfo seeAllPhotoSnd = new ElementInfo("Element tıklanılamadı.",By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[3]/div[1]/a/h3/svg"));
+    public ElementInfo seeAllPhotoSnd = new ElementInfo("Element tıklanılamadı.",By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[3]/div[1]/a/h3"));
 }
