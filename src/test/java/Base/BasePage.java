@@ -83,4 +83,7 @@ public class BasePage {
             //this.LOGGER.error( by + "---> Element tıklanamıyor hatası. " + e.getStackTrace().toString());
         }
     }
+    protected boolean isElementExist(By by){
+        return !driver.findElements(by).isEmpty();
+    }
 }

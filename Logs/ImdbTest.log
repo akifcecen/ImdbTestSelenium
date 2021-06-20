@@ -789,3 +789,573 @@
 2021-06-18 20:23:54 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
 2021-06-18 20:23:56 INFO  Page:100 - See All photos linkine tıklandı.
 2021-06-18 20:23:56 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:06:47 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:06:47 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:06:53 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:06:58 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:06:58 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:07:03 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:07:08 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:07:08 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:07:11 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:07:12 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:07:14 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:07:20 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:07:23 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:07:23 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:07:27 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:07:32 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:07:32 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:18:56 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:18:56 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:19:04 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:19:08 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:19:08 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:19:17 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:19:45 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:19:45 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:19:52 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:19:56 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:19:56 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:20:04 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:20:26 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:20:27 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:20:30 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:20:34 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:20:34 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:20:38 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:23:12 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:23:13 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:23:17 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:23:20 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:23:20 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:23:25 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:23:29 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:23:29 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:23:32 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:23:32 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:23:35 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:23:38 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:23:40 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:23:40 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:23:43 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:23:46 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:23:46 INFO  Page:132 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:26:00 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:26:00 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:26:05 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:26:09 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:26:09 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:26:17 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:26:19 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:26:19 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:26:23 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:26:23 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:26:26 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:26:30 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:26:33 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:26:33 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:26:36 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:26:38 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:26:38 INFO  Page:132 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:27:12 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:27:13 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:27:19 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:27:23 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:27:23 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:27:27 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:32:25 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:32:25 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:32:29 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:32:32 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:32:32 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:32:37 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:32:40 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:32:40 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:32:43 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:32:44 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:32:46 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:32:50 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:32:53 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:32:53 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:32:56 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:32:58 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:32:58 INFO  Page:132 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:36:13 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:36:14 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:36:20 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:36:23 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:36:23 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:36:27 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:36:30 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:36:30 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:36:32 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:36:33 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:36:35 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:36:38 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:36:41 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:36:41 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:36:44 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:36:46 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:36:46 INFO  Page:133 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:37:20 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:37:20 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:37:26 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:37:29 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:37:29 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:37:34 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:38:27 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:38:27 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:38:32 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:38:35 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:38:35 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:38:38 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:39:13 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:39:14 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:39:19 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:39:21 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:39:21 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:39:26 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:40:03 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:40:04 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:40:08 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:40:11 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:40:11 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:40:15 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:42:00 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:42:01 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:42:05 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:42:07 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:42:07 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:42:12 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:45:04 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:45:05 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:45:09 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:45:12 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:45:12 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:45:17 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:54:07 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:54:07 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:54:12 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:54:16 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:54:16 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:54:21 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 16:54:24 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 16:54:24 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 16:54:26 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 16:54:27 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 16:54:30 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 16:54:33 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 16:54:36 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 16:54:36 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 16:54:39 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 16:54:41 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 16:54:41 INFO  Page:134 - Fotoğraf linklerinde kırık yok.
+2021-06-19 16:56:21 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 16:56:22 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 16:56:26 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 16:56:30 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 16:56:30 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 16:56:34 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 17:01:47 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 17:01:47 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 17:01:52 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 17:01:55 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 17:01:56 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 17:02:00 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 17:16:47 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 17:16:48 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 17:16:51 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 17:16:55 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 17:16:55 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 17:16:58 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 17:17:00 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-19 17:17:01 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-19 17:17:03 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-19 17:17:04 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-19 17:17:06 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-19 17:17:09 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-19 17:17:11 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-19 17:17:11 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-19 17:17:14 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-19 17:17:17 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-19 17:17:17 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-19 17:17:50 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 17:17:51 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 17:17:55 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 17:17:59 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 17:17:59 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-19 17:18:03 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-19 17:20:30 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 17:20:30 INFO  Page:39 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 17:20:35 INFO  Page:42 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 17:20:37 INFO  Page:47 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 17:20:37 INFO  Page:50 - Sayfanın sonuna inildi
+2021-06-19 17:20:42 INFO  Page:53 - The Jazz Singer Seçilir
+2021-06-19 17:20:55 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-19 17:20:56 INFO  Page:39 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-19 17:21:00 INFO  Page:42 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-19 17:21:03 INFO  Page:47 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-19 17:21:03 INFO  Page:50 - Sayfanın sonuna inildi
+2021-06-19 17:21:07 INFO  Page:53 - The Jazz Singer Seçilir
+2021-06-20 22:49:18 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 22:49:18 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 22:49:22 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 22:49:25 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 22:49:25 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 22:49:31 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 22:49:33 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-20 22:49:33 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 22:49:35 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 22:49:35 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 22:49:37 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-20 22:49:40 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 22:49:42 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-20 22:49:42 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 22:49:44 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 22:49:47 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-20 22:49:47 INFO  Page:131 - Fotoğraf linklerinde kırık yok.
+2021-06-20 22:51:34 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 22:51:35 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 22:51:39 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 22:51:42 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 22:51:42 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 22:51:46 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:00:38 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:00:38 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:00:42 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:00:45 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:00:45 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:00:50 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:00:53 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-20 23:00:53 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:00:55 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:00:55 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:00:57 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:00:59 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:01:02 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-20 23:01:02 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:01:05 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:01:07 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-20 23:01:08 INFO  Page:121 - https://www.imdb.com/?ref_=nv_homeLinki çalışıyor
+2021-06-20 23:01:09 INFO  Page:121 - https://www.imdb.com/calendar/?ref_=nv_mv_calLinki çalışıyor
+2021-06-20 23:01:10 INFO  Page:121 - https://www.imdb.com/list/ls016522954/?ref_=nv_tvv_dvdLinki çalışıyor
+2021-06-20 23:01:11 INFO  Page:121 - https://www.imdb.com/chart/top/?ref_=nv_mv_250Linki çalışıyor
+2021-06-20 23:01:11 INFO  Page:121 - https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpmLinki çalışıyor
+2021-06-20 23:01:11 INFO  Page:121 - https://www.imdb.com/feature/genre/?ref_=nv_ch_grLinki çalışıyor
+2021-06-20 23:01:12 INFO  Page:121 - https://www.imdb.com/chart/boxoffice/?ref_=nv_ch_chtLinki çalışıyor
+2021-06-20 23:01:13 INFO  Page:121 - https://m.imdb.com/showtimes/movie/?ref_=nv_mv_shLinki çalışıyor
+2021-06-20 23:01:13 INFO  Page:121 - https://www.imdb.com/showtimes/?ref_=nv_mv_shLinki çalışıyor
+2021-06-20 23:01:13 INFO  Page:121 - https://www.imdb.com/movies-in-theaters/?ref_=nv_mv_inthLinki çalışıyor
+2021-06-20 23:01:14 INFO  Page:121 - https://m.imdb.com/coming-soon/?ref_=nv_mv_csLinki çalışıyor
+2021-06-20 23:01:15 INFO  Page:121 - https://www.imdb.com/coming-soon/?ref_=nv_mv_csLinki çalışıyor
+2021-06-20 23:01:15 INFO  Page:121 - https://www.imdb.com/news/movie/?ref_=nv_nw_mvLinki çalışıyor
+2021-06-20 23:01:16 INFO  Page:121 - https://www.imdb.com/india/toprated/?ref_=nv_mv_inLinki çalışıyor
+2021-06-20 23:01:16 INFO  Page:121 - https://www.imdb.com/whats-on-tv/?ref_=nv_tv_ontvLinki çalışıyor
+2021-06-20 23:01:17 INFO  Page:121 - https://m.imdb.com/whats-on-tv/?ref_=nv_tv_ontvLinki çalışıyor
+2021-06-20 23:01:17 INFO  Page:121 - https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250Linki çalışıyor
+2021-06-20 23:01:18 INFO  Page:121 - https://www.imdb.com/chart/tvmeter/?ref_=nv_tvv_mptvLinki çalışıyor
+2021-06-20 23:01:18 INFO  Page:121 - https://www.imdb.com/feature/genre/?ref_=nv_tv_grLinki çalışıyor
+2021-06-20 23:01:18 INFO  Page:121 - https://www.imdb.com/news/tv/?ref_=nv_nw_tvLinki çalışıyor
+2021-06-20 23:01:19 INFO  Page:121 - https://www.imdb.com/india/tv?ref_=nv_tv_inLinki çalışıyor
+2021-06-20 23:01:20 INFO  Page:121 - https://www.imdb.com/what-to-watch/?ref_=nv_watchLinki çalışıyor
+2021-06-20 23:01:20 INFO  Page:121 - https://www.imdb.com/trailers/?ref_=nv_mv_trLinki çalışıyor
+2021-06-20 23:01:20 INFO  Page:121 - https://www.imdb.com/originals/?ref_=nv_sf_oriLinki çalışıyor
+2021-06-20 23:01:21 INFO  Page:121 - https://www.imdb.com/imdbpicks/?ref_=nv_piLinki çalışıyor
+2021-06-20 23:01:21 INFO  Page:121 - https://www.imdb.com/podcasts/?ref_=nv_podLinki çalışıyor
+2021-06-20 23:01:21 INFO  Page:121 - https://www.imdb.com/oscars/?ref_=nv_ev_acdLinki çalışıyor
+2021-06-20 23:01:23 INFO  Page:121 - https://m.imdb.com/feature/bestpicture/?ref_=nv_ch_oscLinki çalışıyor
+2021-06-20 23:01:23 INFO  Page:121 - https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year%2Cdesc&ref_=nv_ch_oscLinki çalışıyor
+2021-06-20 23:01:24 INFO  Page:121 - https://www.imdb.com/golden-globes/?ref_=nv_ev_ggLinki çalışıyor
+2021-06-20 23:01:24 INFO  Page:121 - https://www.imdb.com/emmys/?ref_=nv_ev_rteLinki çalışıyor
+2021-06-20 23:01:25 INFO  Page:121 - https://www.imdb.com/imdbpicks/pride/?ref_=nv_ev_priLinki çalışıyor
+2021-06-20 23:01:25 INFO  Page:121 - https://www.imdb.com/starmeterawards/?ref_=nv_ev_smaLinki çalışıyor
+2021-06-20 23:01:26 INFO  Page:121 - https://www.imdb.com/comic-con/?ref_=nv_ev_comicLinki çalışıyor
+2021-06-20 23:01:26 INFO  Page:121 - https://www.imdb.com/nycc/?ref_=nv_ev_nyccLinki çalışıyor
+2021-06-20 23:01:27 INFO  Page:121 - https://www.imdb.com/sundance/?ref_=nv_ev_sunLinki çalışıyor
+2021-06-20 23:01:27 INFO  Page:121 - https://www.imdb.com/toronto/?ref_=nv_ev_torLinki çalışıyor
+2021-06-20 23:01:27 INFO  Page:121 - https://www.imdb.com/awards-central/?ref_=nv_ev_awrdLinki çalışıyor
+2021-06-20 23:01:28 INFO  Page:121 - https://www.imdb.com/festival-central/?ref_=nv_ev_fcLinki çalışıyor
+2021-06-20 23:01:28 INFO  Page:121 - https://www.imdb.com/event/all/?ref_=nv_ev_allLinki çalışıyor
+2021-06-20 23:01:29 INFO  Page:121 - https://www.imdb.com/feature/bornondate/?ref_=nv_cel_brnLinki çalışıyor
+2021-06-20 23:01:30 INFO  Page:121 - https://m.imdb.com/chart/starmeter/?ref_=nv_cel_brnLinki çalışıyor
+2021-06-20 23:01:30 INFO  Page:121 - https://www.imdb.com/search/name/?gender=male%2Cfemale&ref_=nv_cel_mLinki çalışıyor
+2021-06-20 23:01:31 INFO  Page:121 - https://www.imdb.com/news/celebrity/?ref_=nv_cel_nwLinki çalışıyor
+2021-06-20 23:01:32 INFO  Page:121 - https://help.imdb.com/imdb?ref_=cons_nb_hlpLinki çalışıyor
+2021-06-20 23:01:32 INFO  Page:121 - https://contribute.imdb.com/czone?ref_=nv_cm_czLinki çalışıyor
+2021-06-20 23:01:33 INFO  Page:121 - https://www.imdb.com/poll/?ref_=nv_cm_plLinki çalışıyor
+2021-06-20 23:01:34 INFO  Page:121 - https://pro.imdb.com/?ref_=cons_nb_hm&rf=cons_nb_hmLinki çalışıyor
+2021-06-20 23:01:35 INFO  Page:121 - https://www.imdb.com/?ref_=nv_homeLinki çalışıyor
+2021-06-20 23:01:35 INFO  Page:121 - https://www.imdb.com/search/Linki çalışıyor
+2021-06-20 23:01:35 INFO  Page:121 - https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hmLinki çalışıyor
+2021-06-20 23:01:36 INFO  Page:121 - https://www.imdb.com/list/watchlist?ref_=nv_usr_wl_all_0Linki çalışıyor
+2021-06-20 23:01:36 INFO  Page:121 - https://www.imdb.com/registration/signin?ref=nv_generic_lginLinki çalışıyor
+2021-06-20 23:01:37 INFO  Page:121 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_ttLinki çalışıyor
+2021-06-20 23:01:37 INFO  Page:121 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_ttLinki çalışıyor
+2021-06-20 23:01:37 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm910864384?ref_=ttmi_mi_all_sf_1Linki çalışıyor
+2021-06-20 23:01:38 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm894087168?ref_=ttmi_mi_all_sf_2Linki çalışıyor
+2021-06-20 23:01:38 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm877309952?ref_=ttmi_mi_all_sf_3Linki çalışıyor
+2021-06-20 23:01:39 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm860532736?ref_=ttmi_mi_all_sf_4Linki çalışıyor
+2021-06-20 23:01:39 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm843755520?ref_=ttmi_mi_all_sf_5Linki çalışıyor
+2021-06-20 23:01:40 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm826978304?ref_=ttmi_mi_all_sf_6Linki çalışıyor
+2021-06-20 23:01:40 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm810201088?ref_=ttmi_mi_all_sf_7Linki çalışıyor
+2021-06-20 23:01:41 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1061859328?ref_=ttmi_mi_all_sf_8Linki çalışıyor
+2021-06-20 23:01:41 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045082112?ref_=ttmi_mi_all_sf_9Linki çalışıyor
+2021-06-20 23:01:42 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2618737152?ref_=ttmi_mi_all_pos_10Linki çalışıyor
+2021-06-20 23:01:42 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3513371136?ref_=ttmi_mi_all_pos_11Linki çalışıyor
+2021-06-20 23:01:43 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3657144832?ref_=ttmi_mi_all_pos_12Linki çalışıyor
+2021-06-20 23:01:43 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1198235136?ref_=ttmi_mi_all_prd_13Linki çalışıyor
+2021-06-20 23:01:44 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1111137792?ref_=ttmi_mi_all_prd_14Linki çalışıyor
+2021-06-20 23:01:44 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2521537792?ref_=ttmi_mi_all_prd_15Linki çalışıyor
+2021-06-20 23:01:45 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm13918720?ref_=ttmi_mi_all_sf_16Linki çalışıyor
+2021-06-20 23:01:45 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm114582016?ref_=ttmi_mi_all_sf_17Linki çalışıyor
+2021-06-20 23:01:45 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm852779520?ref_=ttmi_mi_all_sf_18Linki çalışıyor
+2021-06-20 23:01:46 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm718561792?ref_=ttmi_mi_all_sf_19Linki çalışıyor
+2021-06-20 23:01:46 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm617898496?ref_=ttmi_mi_all_sf_20Linki çalışıyor
+2021-06-20 23:01:47 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3587400192?ref_=ttmi_mi_all_sf_21Linki çalışıyor
+2021-06-20 23:01:47 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2360758528?ref_=ttmi_mi_all_sf_22Linki çalışıyor
+2021-06-20 23:01:48 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm141888000?ref_=ttmi_mi_all_sf_23Linki çalışıyor
+2021-06-20 23:01:48 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1147111169?ref_=ttmi_mi_all_bts_24Linki çalışıyor
+2021-06-20 23:01:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3331500801?ref_=ttmi_mi_all_pos_25Linki çalışıyor
+2021-06-20 23:01:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm628847872?ref_=ttmi_mi_all_pos_26Linki çalışıyor
+2021-06-20 23:01:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2808508416?ref_=ttmi_mi_all_pos_27Linki çalışıyor
+2021-06-20 23:01:50 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3622400000?ref_=ttmi_mi_all_pos_28Linki çalışıyor
+2021-06-20 23:01:50 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2461826816?ref_=ttmi_mi_all_pos_29Linki çalışıyor
+2021-06-20 23:01:51 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1810711808?ref_=ttmi_mi_all_pos_30Linki çalışıyor
+2021-06-20 23:01:51 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2799782656?ref_=ttmi_mi_all_pos_31Linki çalışıyor
+2021-06-20 23:01:52 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1062155264?ref_=ttmi_mi_all_pos_32Linki çalışıyor
+2021-06-20 23:01:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3326753536?ref_=ttmi_mi_all_pos_33Linki çalışıyor
+2021-06-20 23:01:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3796515584?ref_=ttmi_mi_all_pos_34Linki çalışıyor
+2021-06-20 23:01:54 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045378048?ref_=ttmi_mi_all_prd_35Linki çalışıyor
+2021-06-20 23:01:54 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3377085184?ref_=ttmi_mi_all_art_36Linki çalışıyor
+2021-06-20 23:01:55 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3309976320?ref_=ttmi_mi_all_art_37Linki çalışıyor
+2021-06-20 23:01:55 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3947510528?ref_=ttmi_mi_all_art_38Linki çalışıyor
+2021-06-20 23:01:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3981064960?ref_=ttmi_mi_all_art_39Linki çalışıyor
+2021-06-20 23:01:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm4014619392?ref_=ttmi_mi_all_art_40Linki çalışıyor
+2021-06-20 23:01:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3779738368?ref_=ttmi_mi_all_art_41Linki çalışıyor
+2021-06-20 23:01:57 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2537947392?ref_=ttmi_mi_all_art_42Linki çalışıyor
+2021-06-20 23:01:57 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2336620800?ref_=ttmi_mi_all_art_43Linki çalışıyor
+2021-06-20 23:01:58 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2202403072?ref_=ttmi_mi_all_art_44Linki çalışıyor
+2021-06-20 23:01:58 INFO  Page:121 - https://www.imdb.com/registration/signin?u=https%3A//www.imdb.com/title/tt0018037/mediaindex%3Fref_%3Dtt_pv_mi_smLinki çalışıyor
+2021-06-20 23:02:00 INFO  Page:121 - https://www.imdb.com/title/tt0018037/videoplayer/vi1399504665?ref_=tt_pv_vi_aiv_1Linki çalışıyor
+2021-06-20 23:02:01 INFO  Page:121 - https://www.imdb.com/title/tt0018037/videogallery?ref_=tt_pv_vi_smLinki çalışıyor
+2021-06-20 23:02:01 INFO  Page:121 - https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_stry_plLinki çalışıyor
+2021-06-20 23:02:01 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=still_frame&ref_=ttmi_ref_sfLinki çalışıyor
+2021-06-20 23:02:02 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=poster&ref_=ttmi_ref_posLinki çalışıyor
+2021-06-20 23:02:02 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=production_art&ref_=ttmi_ref_artLinki çalışıyor
+2021-06-20 23:02:02 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=product&ref_=ttmi_ref_prdLinki çalışıyor
+2021-06-20 23:02:03 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=behind_the_scenes&ref_=ttmi_ref_btsLinki çalışıyor
+2021-06-20 23:02:03 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0427231&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:04 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0078806&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:04 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0564219&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:04 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0274864&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:04 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0646931&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:05 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0822971&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:05 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0001485&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:05 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm6444019&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:06 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0645941&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:06 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0189076&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:06 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0217552&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:06 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0339803&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:07 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm2106150&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:07 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0033985&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:07 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0250240&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:08 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0330036&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:08 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=nm0083460&ref_=ttmi_ref_nmLinki çalışıyor
+2021-06-20 23:02:08 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?refine=rg853383936&ref_=ttmi_ref_galLinki çalışıyor
+2021-06-20 23:02:09 INFO  Page:121 - https://www.imdb.com/title/tt0018037/?ref_=ttmi_qlLinki çalışıyor
+2021-06-20 23:02:09 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?ref_=ttmi_ql_1Linki çalışıyor
+2021-06-20 23:02:10 INFO  Page:121 - https://www.imdb.com/title/tt0018037/videogallery?ref_=ttmi_ql_2Linki çalışıyor
+2021-06-20 23:02:10 INFO  Page:121 - https://www.imdb.com/title/tt0018037/fullcredits?ref_=ttmi_ql_dt_1Linki çalışıyor
+2021-06-20 23:02:10 INFO  Page:121 - https://www.imdb.com/title/tt0018037/releaseinfo?ref_=ttmi_ql_dt_2Linki çalışıyor
+2021-06-20 23:02:11 INFO  Page:121 - https://www.imdb.com/title/tt0018037/officialsites?ref_=ttmi_ql_dt_3Linki çalışıyor
+2021-06-20 23:02:11 INFO  Page:121 - https://www.imdb.com/title/tt0018037/companycredits?ref_=ttmi_ql_dt_4Linki çalışıyor
+2021-06-20 23:02:11 INFO  Page:121 - https://www.imdb.com/title/tt0018037/locations?ref_=ttmi_ql_dt_5Linki çalışıyor
+2021-06-20 23:02:12 INFO  Page:121 - https://www.imdb.com/title/tt0018037/technical?ref_=ttmi_ql_dt_6Linki çalışıyor
+2021-06-20 23:02:12 INFO  Page:121 - https://www.imdb.com/title/tt0018037/taglines?ref_=ttmi_ql_stry_1Linki çalışıyor
+2021-06-20 23:02:12 INFO  Page:121 - https://www.imdb.com/title/tt0018037/plotsummary?ref_=ttmi_ql_stry_2Linki çalışıyor
+2021-06-20 23:02:13 INFO  Page:121 - https://www.imdb.com/title/tt0018037/synopsis?ref_=ttmi_ql_stry_3Linki çalışıyor
+2021-06-20 23:02:13 INFO  Page:121 - https://www.imdb.com/title/tt0018037/keywords?ref_=ttmi_ql_stry_4Linki çalışıyor
+2021-06-20 23:02:13 INFO  Page:121 - https://www.imdb.com/title/tt0018037/parentalguide?ref_=ttmi_ql_stry_5Linki çalışıyor
+2021-06-20 23:02:14 INFO  Page:121 - https://www.imdb.com/title/tt0018037/trivia?ref_=ttmi_ql_trv_1Linki çalışıyor
+2021-06-20 23:02:14 INFO  Page:121 - https://www.imdb.com/title/tt0018037/goofs?ref_=ttmi_ql_trv_2Linki çalışıyor
+2021-06-20 23:02:14 INFO  Page:121 - https://www.imdb.com/title/tt0018037/crazycredits?ref_=ttmi_ql_trv_3Linki çalışıyor
+2021-06-20 23:02:14 INFO  Page:121 - https://www.imdb.com/title/tt0018037/quotes?ref_=ttmi_ql_trv_4Linki çalışıyor
+2021-06-20 23:02:15 INFO  Page:121 - https://www.imdb.com/title/tt0018037/alternateversions?ref_=ttmi_ql_trv_5Linki çalışıyor
+2021-06-20 23:02:15 INFO  Page:121 - https://www.imdb.com/title/tt0018037/movieconnections?ref_=ttmi_ql_trv_6Linki çalışıyor
+2021-06-20 23:02:15 INFO  Page:121 - https://www.imdb.com/title/tt0018037/soundtrack?ref_=ttmi_ql_trv_7Linki çalışıyor
+2021-06-20 23:02:16 INFO  Page:121 - https://www.imdb.com/title/tt0018037/awards?ref_=ttmi_ql_op_1Linki çalışıyor
+2021-06-20 23:02:16 INFO  Page:121 - https://www.imdb.com/title/tt0018037/faq?ref_=ttmi_ql_op_2Linki çalışıyor
+2021-06-20 23:02:16 INFO  Page:121 - https://www.imdb.com/title/tt0018037/reviews?ref_=ttmi_ql_op_3Linki çalışıyor
+2021-06-20 23:02:17 INFO  Page:121 - https://www.imdb.com/title/tt0018037/ratings?ref_=ttmi_ql_op_4Linki çalışıyor
+2021-06-20 23:02:17 INFO  Page:121 - https://www.imdb.com/title/tt0018037/externalreviews?ref_=ttmi_ql_op_5Linki çalışıyor
+2021-06-20 23:02:17 INFO  Page:121 - https://www.imdb.com/title/tt0018037/criticreviews?ref_=ttmi_ql_op_6Linki çalışıyor
+2021-06-20 23:02:17 INFO  Page:121 - https://www.imdb.com/title/tt0018037/tvschedule?ref_=ttmi_ql_tv_1Linki çalışıyor
+2021-06-20 23:02:18 INFO  Page:121 - https://www.imdb.com/title/tt0018037/news?ref_=ttmi_ql_rel_1Linki çalışıyor
+2021-06-20 23:02:18 INFO  Page:121 - https://www.imdb.com/showtimes/title/tt0018037?ref_=ttmi_ql_rel_2Linki çalışıyor
+2021-06-20 23:02:18 INFO  Page:121 - https://www.imdb.com/title/tt0018037/externalsites?ref_=ttmi_ql_rel_3Linki çalışıyor
+2021-06-20 23:02:19 INFO  Page:121 - https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FLinki çalışıyor
+2021-06-20 23:02:20 INFO  Page:121 - https://twitter.com/intent/tweet?text=Caz%20Mugannisi%20(1927)%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FLinki çalışıyor
+2021-06-20 23:02:20 INFO  Page:121 - http://www.imdb.com/title/tt0018037/Linki çalışıyor
+2021-06-20 23:02:20 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?ref_=tt_pv_mi_sm#Linki çalışıyor
+2021-06-20 23:02:21 INFO  Page:121 - https://slyb.app.link/SKdyQ6A449Linki çalışıyor
+2021-06-20 23:02:22 INFO  Page:121 - https://facebook.com/imdbLinki çalışıyor
+2021-06-20 23:02:24 INFO  Page:121 - https://twitch.tv/IMDbLinki çalışıyor
+2021-06-20 23:02:24 INFO  Page:121 - https://twitter.com/imdbLinki çalışıyor
+2021-06-20 23:02:25 INFO  Page:121 - https://youtube.com/imdb/Linki çalışıyor
+2021-06-20 23:02:25 INFO  Page:121 - https://slyb.app.link/SKdyQ6A449Linki çalışıyor
+2021-06-20 23:02:26 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaindex?mode=desktop&ref_=m_ft_dskLinki çalışıyor
+2021-06-20 23:02:26 INFO  Page:121 - https://help.imdb.com/imdbLinki çalışıyor
+2021-06-20 23:02:27 INFO  Page:121 - https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#soLinki çalışıyor
+2021-06-20 23:02:28 INFO  Page:121 - https://pro.imdb.com/?ref_=ft_pro&rf=cons_tf_proLinki çalışıyor
+2021-06-20 23:02:29 INFO  Page:121 - https://www.boxofficemojo.com/Linki çalışıyor
+2021-06-20 23:02:29 INFO  Page:121 - https://developer.imdb.com/Linki çalışıyor
+2021-06-20 23:02:30 INFO  Page:121 - https://www.imdb.com/pressroom/?ref_=ft_prLinki çalışıyor
+2021-06-20 23:02:31 INFO  Page:121 - https://advertising.amazon.com/resources/ad-specs/imdb/Linki çalışıyor
+2021-06-20 23:02:31 INFO  Page:121 - https://www.amazon.jobs/en/teams/imdbLinki çalışıyor
+2021-06-20 23:02:32 INFO  Page:121 - https://www.imdb.com/conditions?ref_=ft_couLinki çalışıyor
+2021-06-20 23:02:32 INFO  Page:121 - https://www.imdb.com/privacy?ref_=ft_pvcLinki çalışıyor
+2021-06-20 23:02:33 INFO  Page:121 - http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FmediaindexLinki çalışıyor
+2021-06-20 23:02:33 INFO  Page:121 - http://twitter.com/intent/tweet?text=Check%20out%20this%20video%20-%20%20from%20undefined%20-%20on%20IMDb!%20-%20https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0018037%2FmediaindexLinki çalışıyor
+2021-06-20 23:10:16 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:10:16 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:10:21 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:10:24 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:10:24 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:10:27 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:10:30 INFO  Page:54 - Full credit sayfası açıldı
+2021-06-20 23:10:30 INFO  Page:56 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:10:32 INFO  Page:62 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:10:33 INFO  Page:64 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:10:34 INFO  Page:66 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:10:37 INFO  Page:70 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:10:38 INFO  Page:72 - Full Credit sayfası açılır
+2021-06-20 23:10:38 INFO  Page:90 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:10:41 INFO  Page:97 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:10:44 INFO  Page:100 - See All photos linkine tıklandı.
+2021-06-20 23:10:45 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm910864384?ref_=ttmi_mi_all_sf_1  Linki çalışıyor
+2021-06-20 23:10:45 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm894087168?ref_=ttmi_mi_all_sf_2  Linki çalışıyor
+2021-06-20 23:10:46 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm877309952?ref_=ttmi_mi_all_sf_3  Linki çalışıyor
+2021-06-20 23:10:46 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm860532736?ref_=ttmi_mi_all_sf_4  Linki çalışıyor
+2021-06-20 23:10:46 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm843755520?ref_=ttmi_mi_all_sf_5  Linki çalışıyor
+2021-06-20 23:10:47 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm826978304?ref_=ttmi_mi_all_sf_6  Linki çalışıyor
+2021-06-20 23:10:47 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm810201088?ref_=ttmi_mi_all_sf_7  Linki çalışıyor
+2021-06-20 23:10:47 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1061859328?ref_=ttmi_mi_all_sf_8  Linki çalışıyor
+2021-06-20 23:10:48 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045082112?ref_=ttmi_mi_all_sf_9  Linki çalışıyor
+2021-06-20 23:10:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2618737152?ref_=ttmi_mi_all_pos_10  Linki çalışıyor
+2021-06-20 23:10:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3513371136?ref_=ttmi_mi_all_pos_11  Linki çalışıyor
+2021-06-20 23:10:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3657144832?ref_=ttmi_mi_all_pos_12  Linki çalışıyor
+2021-06-20 23:10:49 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1198235136?ref_=ttmi_mi_all_prd_13  Linki çalışıyor
+2021-06-20 23:10:50 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1111137792?ref_=ttmi_mi_all_prd_14  Linki çalışıyor
+2021-06-20 23:10:50 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2521537792?ref_=ttmi_mi_all_prd_15  Linki çalışıyor
+2021-06-20 23:10:50 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm13918720?ref_=ttmi_mi_all_sf_16  Linki çalışıyor
+2021-06-20 23:10:51 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm114582016?ref_=ttmi_mi_all_sf_17  Linki çalışıyor
+2021-06-20 23:10:51 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm852779520?ref_=ttmi_mi_all_sf_18  Linki çalışıyor
+2021-06-20 23:10:51 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm718561792?ref_=ttmi_mi_all_sf_19  Linki çalışıyor
+2021-06-20 23:10:52 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm617898496?ref_=ttmi_mi_all_sf_20  Linki çalışıyor
+2021-06-20 23:10:52 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3587400192?ref_=ttmi_mi_all_sf_21  Linki çalışıyor
+2021-06-20 23:10:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2360758528?ref_=ttmi_mi_all_sf_22  Linki çalışıyor
+2021-06-20 23:10:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm141888000?ref_=ttmi_mi_all_sf_23  Linki çalışıyor
+2021-06-20 23:10:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1147111169?ref_=ttmi_mi_all_bts_24  Linki çalışıyor
+2021-06-20 23:10:53 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3331500801?ref_=ttmi_mi_all_pos_25  Linki çalışıyor
+2021-06-20 23:10:54 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm628847872?ref_=ttmi_mi_all_pos_26  Linki çalışıyor
+2021-06-20 23:10:54 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2808508416?ref_=ttmi_mi_all_pos_27  Linki çalışıyor
+2021-06-20 23:10:54 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3622400000?ref_=ttmi_mi_all_pos_28  Linki çalışıyor
+2021-06-20 23:10:55 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2461826816?ref_=ttmi_mi_all_pos_29  Linki çalışıyor
+2021-06-20 23:10:55 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1810711808?ref_=ttmi_mi_all_pos_30  Linki çalışıyor
+2021-06-20 23:10:55 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2799782656?ref_=ttmi_mi_all_pos_31  Linki çalışıyor
+2021-06-20 23:10:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1062155264?ref_=ttmi_mi_all_pos_32  Linki çalışıyor
+2021-06-20 23:10:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3326753536?ref_=ttmi_mi_all_pos_33  Linki çalışıyor
+2021-06-20 23:10:56 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3796515584?ref_=ttmi_mi_all_pos_34  Linki çalışıyor
+2021-06-20 23:10:57 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm1045378048?ref_=ttmi_mi_all_prd_35  Linki çalışıyor
+2021-06-20 23:10:57 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3377085184?ref_=ttmi_mi_all_art_36  Linki çalışıyor
+2021-06-20 23:10:57 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3309976320?ref_=ttmi_mi_all_art_37  Linki çalışıyor
+2021-06-20 23:10:58 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3947510528?ref_=ttmi_mi_all_art_38  Linki çalışıyor
+2021-06-20 23:10:58 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3981064960?ref_=ttmi_mi_all_art_39  Linki çalışıyor
+2021-06-20 23:10:58 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm4014619392?ref_=ttmi_mi_all_art_40  Linki çalışıyor
+2021-06-20 23:10:59 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm3779738368?ref_=ttmi_mi_all_art_41  Linki çalışıyor
+2021-06-20 23:10:59 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2537947392?ref_=ttmi_mi_all_art_42  Linki çalışıyor
+2021-06-20 23:10:59 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2336620800?ref_=ttmi_mi_all_art_43  Linki çalışıyor
+2021-06-20 23:11:00 INFO  Page:121 - https://www.imdb.com/title/tt0018037/mediaviewer/rm2202403072?ref_=ttmi_mi_all_art_44  Linki çalışıyor
+2021-06-20 23:11:00 INFO  Page:121 - https://www.imdb.com/registration/signin?u=https%3A//www.imdb.com/title/tt0018037/mediaindex%3Fref_%3Dtt_pv_mi_sm  Linki çalışıyor
+2021-06-20 23:11:00 INFO  Page:132 - Fotoğraf linklerinde kırık yok.
+2021-06-20 23:11:00 INFO  Page:133 - Çalışmayan link sayısı :0
+2021-06-20 23:15:39 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:15:39 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:15:43 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:15:44 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:15:44 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:15:48 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:19:15 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:19:15 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:19:19 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:19:21 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:19:21 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:19:24 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:19:26 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-20 23:19:26 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:19:28 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:19:28 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:19:30 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:19:33 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:19:35 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-20 23:19:35 INFO  Page:100 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:19:38 INFO  Page:107 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:19:40 INFO  Page:110 - See All photos linkine tıklandı.
+2021-06-20 23:20:03 INFO  Page:143 -  Toplam Link sayısı : 45
+ Çalışmayan link sayısı :45
+2021-06-20 23:20:03 INFO  Page:144 - Çalışmayan link var..
+2021-06-20 23:22:13 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:22:13 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:22:18 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:22:20 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:22:20 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:22:23 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:22:26 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-20 23:22:26 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:22:28 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:22:28 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:22:30 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:22:31 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:22:34 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-20 23:22:34 INFO  Page:100 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:22:35 INFO  Page:107 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:25:38 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:25:38 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:25:43 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:25:46 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:25:46 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:25:49 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:25:51 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-20 23:25:51 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:25:53 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:25:54 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:25:55 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:25:58 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:26:00 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-20 23:26:00 INFO  Page:100 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:26:03 INFO  Page:107 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:26:05 INFO  Page:112 - See All photos linkine tıklandı.
+2021-06-20 23:26:05 INFO  Page:114 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-20 23:26:21 INFO  Page:146 -  Toplam Link sayısı : 45
+ Çalışan link sayısı :45
+2021-06-20 23:26:21 INFO  Page:148 - Fotoğraf linklerinde kırık yok..
+2021-06-20 23:28:01 INFO  BaseTest:42 - Tarayıcıda IMDB sayfası açıldı..
+2021-06-20 23:28:01 INFO  Page:38 - Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+2021-06-20 23:28:05 INFO  Page:41 - Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+2021-06-20 23:28:07 INFO  Page:46 - “Event History” başlığı altında “1929” değeri seçilir
+2021-06-20 23:28:07 INFO  Page:49 - Sayfanın sonuna inildi
+2021-06-20 23:28:10 INFO  Page:52 - The Jazz Singer Seçilir
+2021-06-20 23:28:13 INFO  Page:59 - Full credit sayfası açıldı
+2021-06-20 23:28:13 INFO  Page:61 - Director, Writer ve Stars değerleri kaydedildi.
+2021-06-20 23:28:15 INFO  Page:67 - Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+2021-06-20 23:28:15 INFO  Page:69 - Arama çubuğunaThe Jazz Singer yazılır
+2021-06-20 23:28:17 INFO  Page:71 - Enter tuşuna basılı arama yapılır
+2021-06-20 23:28:20 INFO  Page:75 - Sonuçlar arasında gelen 'The Jazz Singer' tıklanır
+2021-06-20 23:28:23 INFO  Page:82 - Full Credit sayfası açılır
+2021-06-20 23:28:23 INFO  Page:100 - Director, Writer, Stars Bilgileri aynı.
+2021-06-20 23:28:25 INFO  Page:107 - Film bilgileri sayfasına geri dönüldü
+2021-06-20 23:28:27 INFO  Page:112 - See All photos linkine tıklandı.
+2021-06-20 23:28:27 INFO  Page:114 - Fotoğraf linkleri kontrol ediliyor...
+2021-06-20 23:28:40 INFO  Page:146 -  Toplam Link sayısı : 45 Çalışmayan link sayısı :0
+2021-06-20 23:28:40 INFO  Page:148 - Fotoğraf linklerinde kırık yok..

@@ -19,6 +19,6 @@ public interface Elements {
     public ElementInfo resultStars = new ElementInfo("Sonuc kaydedilemedi", By.xpath("//*[@id=\"fullcredits_content\"]/table[3]"));
     public ElementInfo seeAllPhoto =new ElementInfo("Fotoğraflar açılamadı",By.xpath("//*[@id=\"titleImageStrip\"]/div[2]/a[2]"));
     public ElementInfo backToMovie =new ElementInfo("Filme geri dönülemedi",By.xpath("//*[@id=\"main\"]/div[1]/div[1]/div/div[1]/h3/a"));
-
-
+    public ElementInfo getTheJazzSingerAlternateResult = new ElementInfo("Element tıklanmadı",By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[4]/ul/li[3]/a[2]"));
+    public ElementInfo seeAllPhotoSnd = new ElementInfo("Element tıklanılamadı.",By.xpath("//*[@id=\"__next\"]/main/div/section[1]/div/section/div/div[1]/section[3]/div[1]/a/h3/svg"));
 }

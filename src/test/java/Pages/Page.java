@@ -50,7 +50,12 @@ public class Page extends BasePage implements Elements {
 
         waitForElementAndClick(theJazzSinger);
         LOGGER.info("The Jazz Singer Seçilir");
-        waitForElementAndClick(credit);
+        if (isElementExist(credit.getBy())){
+        waitForElementAndClick(credit);}
+        else {
+            waitForElementAndClick(getTheJazzSingerAlternateResult);
+        }
+
         LOGGER.info("Full credit sayfası açıldı");
         cast = driver.findElements(By.tagName("//*[@id=\"title-overview-widget\"]/div[2]/div[1]/div"));
         LOGGER.info("Director, Writer ve Stars değerleri kaydedildi.");
@@ -68,7 +73,12 @@ public class Page extends BasePage implements Elements {
 
         waitForElementAndClick(resultsTheJSinger);
         LOGGER.info("Sonuçlar arasında gelen 'The Jazz Singer' tıklanır");
-        waitForElementAndClick(creditSnd);
+        if (isElementExist(creditSnd.getBy())){
+            waitForElementAndClick(creditSnd);}
+        else {
+            waitForElementAndClick(getTheJazzSingerAlternateResult);
+        }
+
         LOGGER.info("Full Credit sayfası açılır");
         List<WebElement> links = driver.findElements(By.tagName("//*[@id=\"title-overview-widget\"]/div[2]/div[1]/div"));
         Iterator<WebElement> it = links.iterator();
@@ -96,12 +106,14 @@ public class Page extends BasePage implements Elements {
         driver.findElement(backToMovie.getBy()).click();
         LOGGER.info("Film bilgileri sayfasına geri dönüldü");
 
+        if(isElementExist(seeAllPhoto.getBy()))
         waitForElementAndClick(seeAllPhoto);
+        else waitForElementAndClick(seeAllPhotoSnd);
         LOGGER.info("See All photos linkine tıklandı.");
-
-        List<WebElement> links = driver.findElements(By.tagName("//*[@id=\"media_index_thumbnail_grid\"]/a"));
+        int count=0;
+        LOGGER.info("Fotoğraf linkleri kontrol ediliyor...");
+        List<WebElement> links = driver.findElements(By.xpath("//*[@class='media_index_thumb_list']/a"));
         Iterator<WebElement> it = links.iterator();
-
         while (it.hasNext()) {
 
             url = it.next().getAttribute("href");
@@ -115,9 +127,12 @@ public class Page extends BasePage implements Elements {
                 respCode = huc.getResponseCode();
 
                 if (respCode >= 400) {
-                  //  LOGGER.info(url + "Linki çalışmıyor");
+                    LOGGER.info(url + "  Linki çalışmıyor");
+                    count++;
+
                 } else {
-                   // LOGGER.info(url + "Linki çalışıyor");
+                    //LOGGER.info(url + "  Linki çalışıyor");
+
                 }
 
             } catch (MalformedURLException e) {
@@ -128,7 +143,9 @@ public class Page extends BasePage implements Elements {
                 e.printStackTrace();
             }
         }
-        LOGGER.info("Fotoğraf linklerinde kırık yok.");
+        LOGGER.info(" Toplam Link sayısı : "+ links.size() + " Çalışmayan link sayısı :"+count);
+        if(count>0)LOGGER.info("Çalışmayan link var..");
+        else LOGGER.info("Fotoğraf linklerinde kırık yok..");
 
     }
 
